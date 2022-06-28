@@ -28,4 +28,61 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.banner-interno
+  height: 114px
+.banner-interno__fondo
+  background-image: url(assets/curso/fondo_tema.png) !important
+.banner-principal .tarjeta
+  background-position: inherit !important
+.titulo-principal__numero
+  background-color: #29C4BB !important
+.titulo-principal__numero span
+  color: #12263F !important
+.curso-main-container > .container
+  overflow-x: clip !important
+.titulo-segundo:after
+  border-left-color: #EE296D !important
+.d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
+  padding-bottom: 0 !important
+.banner-principal-decorativo-1
+  top: 65% !important
+  right: 90% !important
+  -webkit-animation: float1 3.5s ease-in-out infinite alternate
+  animation: float1 3.5s ease-in-out infinite alternate
+.banner-principal-decorativo-2
+  top: 65% !important
+  right: 80% !important
+  -webkit-animation: float1 3.5s ease-in-out infinite alternate
+  animation: float1 3.5s ease-in-out infinite alternate
+.banner-principal-decorativo-3
+  top: 40% !important
+  right: 65% !important
+  -webkit-animation: float1 3.5s ease-in-out infinite alternate
+  animation: float1 3.5s ease-in-out infinite alternate
+.banner-principal-decorativo-4
+  top: 5% !important
+  right: 45% !important
+  -webkit-animation: float1 3.5s ease-in-out infinite alternate
+  animation: float1 3.5s ease-in-out infinite alternate
+.banner-principal-decorativo-5
+  top: 60% !important
+  right: 35% !important
+  -webkit-animation: float1 3.5s ease-in-out infinite alternate
+  animation: float1 3.5s ease-in-out infinite alternate
+.banner-principal-decorativo-6
+  top: 40% !important
+  right: 5% !important
+  -webkit-animation: float1 3.5s ease-in-out infinite alternate
+  animation: float1 3.5s ease-in-out infinite alternate
+.banner-principal-decorativo-7
+  top: 60% !important
+  right: 0% !important
+  -webkit-animation: float1 3.5s ease-in-out infinite alternate
+  animation: float1 3.5s ease-in-out infinite alternate
+.banner-principal-decorativo-8
+  top: 85% !important
+  right: 0% !important
+  -webkit-animation: float1 3.5s ease-in-out infinite alternate
+  animation: float1 3.5s ease-in-out infinite alternate
+</style>

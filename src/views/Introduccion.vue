@@ -2,28 +2,19 @@
 .curso-main-container.introduccion
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-  
     .titulo-principal
       .titulo-principal__numero
         span
           i.fas.fa-info
       h1 Introducción
-    
-    figure.mb-5
+
+    p(data-aos="fade-up") El análisis de los datos se ha convertido en una herramienta fundamental para la toma de decisiones, pues permite conocer el comportamiento y el rendimiento de las acciones que la empresa ha trazado para cumplir con los objetivos propuestos. El área del marketing y, especialmente, la estrategia digital requieren de un seguimiento y un análisis constante en función de la conducta de los consumidores y/o usuarios frente a los productos y servicios ofertados, esta tarea se ejecuta a través de las métricas o comúnmente llamados indicadores (KPI).
+    p.mt-4(data-aos="fade-up") Peter Drucker se hizo célebre por la siguiente frase: “Lo que no se puede medir no se puede controlar; lo que no se puede controlar no se puede gestionar; lo que no se puede gestionar no se puede mejorar”; en este sentido, las acciones en el mundo digital requieren de medición constante para su control y posterior mejoramiento. A continuación, se invita a ver el video de introducción a la temática del componente:
+
+    figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    p.mb-5 La necesidad de mitigar la pandemia por COVID-19 ha obligado a la comunidad científica internacional, a desarrollar una serie de investigaciones y desarrollos tendientes a presentar una vacuna para hacerle frente a esta enfermedad que aumenta día a día su morbi mortalidad en Colombia. Es así, como en diciembre de 2020, la comunidad científica presenta los resultados de varios desarrollos de vacunas, que ofrecen eficacia y seguridad, respaldados por estudios clínicos rigurosos.
-
-    figure.mb-5
-      img(src="@/assets/curso/banner-intro.jpg", alt="Texto que describa la imagen")
-      figcaption Imagen 1. Vacunación
-
-    p.mb-0 La llegada de nuevas vacunas al país supone un reto para el talento humano en salud responsable de la vacunación y desarrollar habilidades para ofrecer una orientación oportuna y segura a las personas objeto de la vacuna.
-      br
-      br
-      | En ese orden de ideas, este componente formativo guía al aprendiz hacia la identificación de los aspectos normativos, técnicos y operativos de la vacunación contra COVID19 en Colombia y de las generalidades de la infección por SARS-2 COVID 19.
 
 </template>
 

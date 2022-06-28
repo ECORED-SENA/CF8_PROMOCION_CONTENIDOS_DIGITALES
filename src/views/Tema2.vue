@@ -1,148 +1,89 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    
-    .titulo-principal
-      .h3 Producción Audiovisual
-    
-    #t_2_1.titulo-segundo
-      .h4 2.1 Infografía Animada
-    
-    p.mb-4 Propuesta infográfica en animación que refuerce un tema y matice conceptos dados de manera creativa y con intención pedagógica.
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+    .titulo-principal.color-acento-contenido
+      .titulo-principal__numero
+        span 2
+      h1 Engagement
 
-    figure.mb-5
+    .row
+      .col-md-4
+        p(data-aos="fade-in") Es un término en inglés que traduce compromiso. En el marketing de contenidos hace referencia a la conexión que se logra con el público mediante la promoción de contenido. Por ejemplo, hay compromiso cuando un usuario envía un link por algún medio digital a los miembros de su comunidad virtual para que conozcan un producto o servicio de determinada marca.
+      .col-md-4.p-0
+        figure
+          img(src="@/assets/curso/tema2/1.png" data-aos="zoom-in-up")
+      .col-md-4.p-0
+        .p-3(style="background-color:#C9F0EE;height:100%;")
+          figure.d-none.d-md-block
+            img(src="@/assets/curso/tema2/2.svg" data-aos="zoom-in-up" style="max-width:100px;")
+          p.mt-3(data-aos="fade-in") Es el compromiso o conexión que se logra con los usuarios mediante el contenido que se presenta de los productos o servicios en diferentes medios digitales.
+
+    p.mt-5(data-aos="fade-up" style="position:relative") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;") Beneficios del engagement]
+
+    p.mt-4(data-aos="fade-up") En la medida que se logra un mayor engagement los beneficios que se obtienen son los siguientes:
+
+    .row.mt-5
+      .col-md-3.mb-3
+        .p-4.cont_tema21(style="height:100%;")
+          .p-3.d-flex.align-items-center(style="background-color:#ffffff;border-radius:10px;box-shadow:0px 0px 10px rgba(0,0,0,.25);height:100%;")
+            p.text-center.mb-0(data-aos="fade-in") #[strong(style="color:#1169E3;") Incrementa] la tasa de interacción en poco tiempo de los usuarios por las redes sociales siendo el principal espacio de comunicación para despejar dudas de la marca.
+      .col-md-3.mb-3
+        .p-4.cont_tema22(style="height:100%;")
+          .p-3.d-flex.align-items-center(style="background-color:#ffffff;border-radius:10px;box-shadow:0px 0px 10px rgba(0,0,0,.25);height:100%;")
+            p.text-center.mb-0(data-aos="fade-in") #[strong(style="color:#1169E3;") Aumenta] la confianza de la marca por su contenido valioso.
+      .col-md-3.mb-3
+        .p-4.cont_tema23(style="height:100%;")
+          .p-3.d-flex.align-items-center(style="background-color:#ffffff;border-radius:10px;box-shadow:0px 0px 10px rgba(0,0,0,.25);height:100%;")
+            p.text-center.mb-0(data-aos="fade-in") #[strong(style="color:#1169E3;") Aumenta] la lealtad del cliente. 
+      .col-md-3.mb-3
+        .p-4.cont_tema24(style="height:100%;")
+          .p-3.d-flex.align-items-center(style="background-color:#ffffff;border-radius:10px;box-shadow:0px 0px 10px rgba(0,0,0,.25);height:100%;")
+            p.text-center.mb-0(data-aos="fade-in") #[strong(style="color:#1169E3;") El good will] de la marca se posesiona.
+
+    p.mt-5(data-aos="fade-up") Es importante generar acciones que permitan aumentar el engagement dentro de la comunidad o público objetivo con la que se tiene planeado interactuar.
+
+    p.mt-4(data-aos="fade-up") En el siguiente video se presentan cinco acciones como estrategias para incrementar el engagement:
+
+    figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2cnKTwQ85fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    #t_2_2.titulo-segundo
-      .h4 2.2 Video Motion
+    p.mt-5(data-aos="fade-up") La importancia del engagement es lograr establecer qué tan comprometidos están los usuarios o público objetivo con la marca o la comunidad a la que pertenecen, por lo anterior se hace necesario conocer la tasa de engagement mediante el alcance y los seguidores utilizando técnicas matemáticas para su cálculo, como se muestra a continuación:
 
-    p.mb-4 Animación digital que crea la ilusión de movimiento mediante imágenes, fotografías, títulos, colores y diseños.
+    .row.col-md-10.m-auto.p-5.mt-5(style="background-color:#D7E4F6;box-shadow:0px 0px 15px rgba(0,0,0,.3);")
+      .col-md-6.p-4(style="border-right:2px #12263F solid;")
+        h4(data-aos="fade-up") Cálculo del engagement según el alcance
+        p.mt-3(data-aos="fade-up") Es importante resaltar que solo puede hacerse a través de cuentas propias.
+        figure.mt-5
+          img(src="@/assets/curso/tema2/7.svg" data-aos="zoom-in-up")
 
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/E7-BaX6ox9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .col-md-6.p-4
+        h4(data-aos="fade-up") Cálculo del engagement según los seguidores
+        p.mt-3(data-aos="fade-up") Es importante resaltar que puede hacerse a través de cuentas propias y ajenas.
+        figure.mt-5
+          img(src="@/assets/curso/tema2/8.svg" data-aos="zoom-in-up")
 
-    #t_2_3.titulo-segundo
-      .h4 2.3 Motion + Presentador
+    .row.mt-5.p-4(style="background-color:#C9F0EE;border-radius:15px;")
+      .col-auto
+        figure
+          img(src="@/assets/curso/tema2/9.svg" data-aos="zoom-in-up")
+      .col(style="place-self:center;")
+        p.mb-0(data-aos="fade-up") Para concluir, la técnica implica sumar todas las interacciones (me gustas, comentarios, compartir, retweets, etc.), de una publicación o de varias en un periodo de tiempo, luego esa suma se divide por el número de personas que vieron la publicación (alcance) y finalmente se multiplica por cien. El mismo procedimiento aplica para los seguidores. 
 
-    p.mb-4 Es el uso locutor + acompañamiento de imágenes como fondo, el estilo tiene una mezcla entre imagen viva y recursos gráficos vectoriales  se usa cuando un material tiene información de datos numéricos o gráficos de valores. 
 
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Ky73iaXuuTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    #t_2_4.titulo-segundo
-      .h4 2.4 Animación 2D
 
-    p.mb-4 Es el uso locutor + acompañamiento de imágenes como fondo, el estilo tiene una mezcla entre imagen viva y recursos gráficos vectoriales  se usa cuando un material tiene información de datos numéricos o gráficos de valores. 
-
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/3b8VctSm558" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-    #t_2_5.titulo-segundo
-      .h4 2.5 Video interactivo
-
-    p.mb-4 Visualización de videos con diferentes tipos de preguntas o anotaciones.
-
-    figure.mb-5
-      .video
-        iframe(src="https://vizia.co/videos/94d994c5fe93f1b08a60eb/embed" allowtransparency="true" frameborder="0" scrolling="no" width="640" height="390")
-
-    #t_2_6.titulo-segundo
-      .h4 2.6 Infografías
-
-    p.mb-4 Es una herramienta de comunicación de alta precisión, el cual tiene una narrativa gráfica con un texto corto acompañada de elementos visuales que tienen como intención de captar rápidamente la atención del lector. 
-
-    figure.mb-5
-      img(src='@/assets/curso/infografia-1.jpg', alt='Infografía Fundamentos del Servicio de Interpretación')
-      figcaption Fundamentos del Servicio de Interpretación
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Fundamentos del Servicio de Interpretación
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/fundamentos_del_servicio_de_Interpretacion.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-    
-    figure.mb-5
-      img(src='@/assets/curso/infografia-2.jpg', alt='Infografía Plan de Negocios')
-      figcaption Plan de Negocios
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Plan de Negocios
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/plan_de_negocios.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-    
-    figure.mb-5
-      img(src='@/assets/curso/infografia-3.jpg', alt='Infografía Cobertura poblacional')
-      figcaption Cobertura poblacional
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Cobertura poblacional
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/cobertura_poblacional.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-    
-    figure.mb-5
-      img(src='@/assets/curso/infografia-4.jpg', alt='Infografía Historia de las microfinanzas: Mohammad Yunus')
-      figcaption Historia de las microfinanzas: Mohammad Yunus
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Historia de las microfinanzas: Mohammad Yunus
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/historia_de_las_microfinanzas_mohammad_yunus.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-    
-    figure.mb-5
-      img(src='@/assets/curso/infografia-5.jpg', alt='Infografía Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica')
-      figcaption Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/psicologia_de_la_moda.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
 
 </template>
 
 <script>
 export default {
   name: 'Tema2',
+  components: {},
   data: () => ({
-    // variables de vue
+    indicadorTarjetaSlide: true,
+    indicadorTarjetaFlip: true,
   }),
   mounted() {
     this.$nextTick(() => {
@@ -154,5 +95,13 @@ export default {
   },
 }
 </script>
-
-<style lang="sass"></style>
+<style lang="sass">
+.cont_tema21
+  background: url(../assets/curso/tema2/3.svg)
+.cont_tema22
+  background: url(../assets/curso/tema2/4.svg)
+.cont_tema23
+  background: url(../assets/curso/tema2/5.svg)
+.cont_tema24
+  background: url(../assets/curso/tema2/6.svg)
+</style>
