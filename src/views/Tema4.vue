@@ -5,7 +5,73 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 
+      h1 Reacciones
+
+    .row.p-5.cont_tema4_1
+      .col-md-6
+        p.mt-5.mb-5(data-aos="fade-in") Los internautas, especialmente los social media, están constantemente en interacción con sus comunidades utilizando las redes sociales, esta continua comunicación ha llevado a la creación de nuevas formas de expresión con el propósito de optimizar el tiempo en las conversaciones cuando se interactúa a través de un dispositivo móvil o una laptop, es decir, se está en la era del ciberlenguaje.
+
+    p.mt-5(data-aos="fade-up") Una reacción es aquella forma de expresión gráfica que permite al internauta manifestarse a través de las redes sociales o aplicaciones de una manera corta y como respuesta emocional a una publicación utilizando un dispositivo electrónico mediante el uso del internet.
+
+    br
+    br
+    .cont_tema4_2.pb-5.mt-5(style="position:relative;")
+      p.mt-5(data-aos="fade-up" style="position:relative") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;") Tipos]
+      p.mt-4(data-aos="fade-up" style="position:relative") El tiempo en la interacción está relacionado con el proceso de optimización del valor del cliente haciendo referencia a los pasos a seguir como estrategia del marketing de contenidos. A continuación, se presenta el paso a paso en la optimización del valor del cliente para incentivar su interacción. 
+      .row.mt-5
+        .col-md-4
+          figure
+            img(src="@/assets/curso/tema4/2.svg" data-aos="zoom-in-up" style="position:relative")
+        .col-md-7
+          p(data-aos="fade-up" style="position:relative") Las campañas en las redes sociales bajo el parámetro de las reacciones permiten evaluar las publicaciones con base en las emociones de los clientes o usuarios. La utilización de iconos o emojis se ha convertido en un centro de validación de información muy útil a la hora de conocer qué piensa el consumidor sobre determinado producto o servicio; la red social Facebook permite a través de sus algoritmos realizar este tipo de mediciones. 
+      p.mt-5(data-aos="fade-up" style="position:relative") Los iconos más reconocidos son:
+
+      .row.mt-5
+        .col-lg-2.col-md-4.mb-3
+          figure
+            img(src="@/assets/curso/tema4/3.svg" data-aos="zoom-in-up" style="position:relative;")
+          h4.mt-2.mb-0(data-aos="fade-up" style="position:relative;color:#1169E3;") Me gusta
+          p(data-aos="fade-up" style="position:relative") Pulgar hacia arriba.
+        .col-lg-2.col-md-4.mb-3
+          figure
+            img(src="@/assets/curso/tema4/4.svg" data-aos="zoom-in-up" style="position:relative;")
+          h4.mt-2.mb-0(data-aos="fade-up" style="position:relative;color:#1169E3;") Amor
+          p(data-aos="fade-up" style="position:relative") Corazón que late.
+        .col-lg-2.col-md-4.mb-3
+          figure
+            img(src="@/assets/curso/tema4/5.svg" data-aos="zoom-in-up" style="position:relative;")
+          h4.mt-2.mb-0(data-aos="fade-up" style="position:relative;color:#1169E3;") Jaja
+          p(data-aos="fade-up" style="position:relative") Cara riendo.
+        .col-lg-2.col-md-4.mb-3
+          figure
+            img(src="@/assets/curso/tema4/6.svg" data-aos="zoom-in-up" style="position:relative;")
+          h4.mt-2.mb-0(data-aos="fade-up" style="position:relative;color:#1169E3;") Wow
+          p(data-aos="fade-up" style="position:relative") Cara sorprendida.
+        .col-lg-2.col-md-4.mb-3
+          figure
+            img(src="@/assets/curso/tema4/7.svg" data-aos="zoom-in-up" style="position:relative;")
+          h4.mt-2.mb-0(data-aos="fade-up" style="position:relative;color:#1169E3;") Triste
+          p(data-aos="fade-up" style="position:relative") Cara llorando, mostrando una lágrima animada.
+        .col-lg-2.col-md-4.mb-3
+          figure
+            img(src="@/assets/curso/tema4/8.svg" data-aos="zoom-in-up" style="position:relative;")
+          h4.mt-2.mb-0(data-aos="fade-up" style="position:relative;color:#1169E3;") Enojado
+          p(data-aos="fade-up" style="position:relative") Cara roja / enojada / haciendo pucheros.
+
+      .tarjeta.color-acento-contenido.p-4.mt-5.col-md-10.m-auto(style="position:relative;background-color:#29C4BB;background:linear-gradient(177deg, #29C4BB, #15625E);")
+        .row.justify-content-around.align-items-center(style="position:relative")
+          .col-3.col-sm-2.col-lg-1(style="position:relative")
+            img(src="@/assets/curso/tema4/9.svg" style="position:relative")
+          .col(style="position:relative")
+            .row.justify-content-between.align-items-center(style="position:relative")
+              .col.mb-3.mb-sm-0(style="position:relative")
+                h3.mb-1(style="position:relative") Tipos de redes sociales
+                p.text-small(style="position:relative") Para complementar los conocimientos sobre la temática de redes, lo invito a ver el siguiente video que nos explica los tipos de redes sociales: 
+              .col-sm-auto(style="position:relative")
+                a.boton.color-acento-botones(href="#" target="_blank" style="position:relative")
+                  span(style="position:relative;color:#12263F;") Ver
+                  i.fas.fa-play(style="position:relative;color:#12263F;")
+
 
 
 </template>
@@ -28,4 +94,18 @@ export default {
   },
 }
 </script>
-<style lang="sass"></style>
+<style lang="sass">
+.cont_tema4_1
+  background: url(../assets/curso/tema4/1.svg)
+  background-repeat: no-repeat
+  background-size: cover
+  border-radius: 15px
+.cont_tema4_2:before
+  content: ''
+  position: absolute
+  height: 108%
+  width: 115%
+  left: -7%
+  top: -8%
+  background-color: #EAF1FA
+</style>
