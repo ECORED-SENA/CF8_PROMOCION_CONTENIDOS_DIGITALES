@@ -8,7 +8,7 @@
       h1 Engagement
 
     .row
-      .col-md-4
+      .col-md-4(style="place-self:center")
         p(data-aos="fade-in") Es un término en inglés que traduce compromiso. En el marketing de contenidos hace referencia a la conexión que se logra con el público mediante la promoción de contenido. Por ejemplo, hay compromiso cuando un usuario envía un link por algún medio digital a los miembros de su comunidad virtual para que conozcan un producto o servicio de determinada marca.
       .col-md-4.p-0
         figure
@@ -17,7 +17,7 @@
         .p-3(style="background-color:#C9F0EE;height:100%;")
           figure.d-none.d-md-block
             img(src="@/assets/curso/tema2/2.svg" data-aos="zoom-in-up" style="max-width:100px;")
-          p.mt-3(data-aos="fade-in") Es el compromiso o conexión que se logra con los usuarios mediante el contenido que se presenta de los productos o servicios en diferentes medios digitales.
+          p.mt-3.mb-0(data-aos="fade-in") Es el compromiso o conexión que se logra con los usuarios mediante el contenido que se presenta de los productos o servicios en diferentes medios digitales.
 
     p.mt-5(data-aos="fade-up" style="position:relative") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;") Beneficios del engagement]
 
