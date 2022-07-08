@@ -9,7 +9,7 @@
 
     .row.p-5.cont_tema4_1
       .col-md-6
-        p.mt-5.mb-5(data-aos="fade-in") Los internautas, especialmente los social media, están constantemente en interacción con sus comunidades utilizando las redes sociales, esta continua comunicación ha llevado a la creación de nuevas formas de expresión con el propósito de optimizar el tiempo en las conversaciones cuando se interactúa a través de un dispositivo móvil o una laptop, es decir, se está en la era del ciberlenguaje.
+        p.mt-5.mb-5(data-aos="fade-in") Los internautas, especialmente los #[em social media], están constantemente en interacción con sus comunidades utilizando las redes sociales, esta continua comunicación ha llevado a la creación de nuevas formas de expresión con el propósito de optimizar el tiempo en las conversaciones cuando se interactúa a través de un dispositivo móvil o una #[em laptop], es decir, se está en la era del ciberlenguaje.
 
     p.mt-5(data-aos="fade-up") Una reacción es aquella forma de expresión gráfica que permite al internauta manifestarse a través de las redes sociales o aplicaciones de una manera corta y como respuesta emocional a una publicación utilizando un dispositivo electrónico mediante el uso del internet.
 
@@ -17,14 +17,14 @@
     br
     .cont_tema4_2.pb-5.mt-5(style="position:relative;")
       p.mt-5(data-aos="fade-up" style="position:relative") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;") Tipos]
-      p.mt-4(data-aos="fade-up" style="position:relative") El tiempo en la interacción está relacionado con el proceso de optimización del valor del cliente haciendo referencia a los pasos a seguir como estrategia del marketing de contenidos. A continuación, se presenta el paso a paso en la optimización del valor del cliente para incentivar su interacción. 
+      p.mt-4(data-aos="fade-up" style="position:relative") El tiempo en la interacción está relacionado con el proceso de optimización del valor del cliente haciendo referencia a los pasos a seguir como estrategia del #[em marketing] de contenidos. A continuación, se presenta el paso a paso en la optimización del valor del cliente para incentivar su interacción. 
       .row.mt-5
         .col-md-4
           figure
             img(src="@/assets/curso/tema4/2.svg" data-aos="zoom-in-up" style="position:relative")
         .col-md-7
-          p(data-aos="fade-up" style="position:relative") Las campañas en las redes sociales bajo el parámetro de las reacciones permiten evaluar las publicaciones con base en las emociones de los clientes o usuarios. La utilización de iconos o emojis se ha convertido en un centro de validación de información muy útil a la hora de conocer qué piensa el consumidor sobre determinado producto o servicio; la red social Facebook permite a través de sus algoritmos realizar este tipo de mediciones. 
-      p.mt-5(data-aos="fade-up" style="position:relative") Los iconos más reconocidos son:
+          p(data-aos="fade-up" style="position:relative") Las campañas en las redes sociales bajo el parámetro de las reacciones permiten evaluar las publicaciones con base en las emociones de los clientes o usuarios. La utilización de íconos o #[em emojis] se ha convertido en un centro de validación de información muy útil a la hora de conocer qué piensa el consumidor sobre determinado producto o servicio; la red social Facebook permite a través de sus algoritmos realizar este tipo de mediciones. 
+      p.mt-5(data-aos="fade-up" style="position:relative") Los íconos más reconocidos son:
 
       .row.mt-5
         .col-lg-2.col-md-4.mb-3

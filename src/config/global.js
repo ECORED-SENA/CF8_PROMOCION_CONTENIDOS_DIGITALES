@@ -176,14 +176,14 @@ export default {
     },
     {
       referencia:
-        'Jenkins, H. (2001). La cultura se vuelve global. Revisión de Tecnología, 104(6), 89-89.',
-      link: '',
+        'Jithin. (2016). Common Network Protocols and Their Ports. Interserver.',
+      link:
+        'https://www.interserver.net/tips/kb/common-network-protocols-ports/ ',
     },
     {
       referencia:
-        'ithin. (2016). Common Network Protocols and Their Ports. Interserver.',
-      link:
-        'https://www.interserver.net/tips/kb/common-network-protocols-ports/ ',
+        'Jenkins, H. (2001). La cultura se vuelve global. Revisión de Tecnología, 104(6), 89-89.',
+      link: '',
     },
     {
       referencia: 'Kotler, P. (1997). Marketing Management. Prentice-Hall. ',
@@ -202,27 +202,27 @@ export default {
         'calcula la evolución y la interacción de una publicación en cualquier tipo de formato, especialmente las redes sociales.',
     },
     {
-      termino: 'Analítica web ',
+      termino: 'Analítica <em>web</em> ',
       significado:
-        'forma de medir y analizar los datos de tráfico de un sitio web.',
+        'forma de medir y analizar los datos de tráfico de un sitio <em>web</em>.',
     },
     {
-      termino: 'Cookies',
+      termino: '<em>Cookies</em>',
       significado:
-        'pequeños fragmentos de información que quedan registrados en el navegador cuando se visita un sitio web y que permiten a este sitio seguir el rastro de la actividad de los usuarios.',
+        'pequeños fragmentos de información que quedan registrados en el navegador cuando se visita un sitio <em>web</em> y que permiten a este sitio seguir el rastro de la actividad de los usuarios.',
     },
     {
-      termino: 'Engagement ',
+      termino: '<em>Engagement</em> ',
       significado:
         'sensación de pertenencia y unión emocional entre una marca y un usuario. Es el objetivo de toda marca o empresa en redes sociales a través de basar la estrategia en marketing de contenidos y generar en cada una de las redes la mayor participación posible.',
     },
     {
-      termino: 'Fanpage',
+      termino: '<em>Fanpage</em>',
       significado:
-        'también llamada “página de fans”, es la plataforma que ofrece Facebook a las empresas, marcas u organizaciones para visibilizar y conectar con los usuarios. A diferencia de un perfil, una fan page no tiene límite de fans y es posible tener acceso a la información estadística de la página.',
+        'también llamada “página de fans”, es la plataforma que ofrece Facebook a las empresas, marcas u organizaciones para visibilizar y conectar con los usuarios. A diferencia de un perfil, una <em>fan page</em> no tiene límite de fans y es posible tener acceso a la información estadística de la página.',
     },
     {
-      termino: 'Hashtag ',
+      termino: '<em>Hashtag</em> ',
       significado:
         'etiqueta formada por una palabra o un conjunto de palabras precedidas por el símbolo numeral (#) que transmite una idea, un nombre o un concepto que, normalmente, va asociado con un mensaje o texto. Su uso se ha extendido principalmente en redes sociales como Twitter, Instagram o Google Plus.',
     },
@@ -234,27 +234,27 @@ export default {
     {
       termino: 'KPI',
       significado:
-        'siglas de Key Performance Indicator; son indicadores y herramientas de medición de los cuales se obtiene información útil del nivel de rendimiento de una campaña o estrategia de social media marketing.',
+        'siglas de <em>Key Performance Indicator</em>; son indicadores y herramientas de medición de los cuales se obtiene información útil del nivel de rendimiento de una campaña o estrategia de social media <em>marketing</em>.',
     },
     {
-      termino: 'Reputación online',
+      termino: 'Reputación <em>online</em>',
       significado:
         'conjunto de opiniones y experiencias (positivas o negativas) de usuarios y consumidores que giran en torno a una marca, un producto o una empresa, generados en el entorno 2.0 y en las redes sociales.',
     },
     {
-      termino: 'Retargeting ',
+      termino: '<em>Retargeting</em> ',
       significado:
-        'nueva técnica de publicidad que consiste en mostrar al usuario productos afines, una especie de filtro personalizado de productos y servicios en los que se está más receptivo a recibir información. Este tipo de prácticas se hacen posibles si, y solo si, los usuarios admiten voluntariamente que aceptan cookies cuando navegan en determinado sitio.',
+        'nueva técnica de publicidad que consiste en mostrar al usuario productos afines, una especie de filtro personalizado de productos y servicios en los que se está más receptivo a recibir información. Este tipo de prácticas se hacen posibles si, y solo si, los usuarios admiten voluntariamente que aceptan <em>cookies</em> cuando navegan en determinado sitio.',
     },
     {
       termino: 'ROI',
       significado:
-        'siglas en inglés de return on investment, que significa retorno de la inversión. Es un indicador que mide el beneficio frente al gasto de la inversión de un proyecto de social media marketing en función de los objetivos y las metas logrados.',
+        'siglas en inglés de <em>return on investment</em>, que significa retorno de la inversión. Es un indicador que mide el beneficio frente al gasto de la inversión de un proyecto de social media <em>marketing</em> en función de los objetivos y las metas logrados.',
     },
     {
-      termino: 'Storytelling ',
+      termino: '<em>Storytelling</em> ',
       significado:
-        'técnica de marketing cuyo objetivo es conectar y vincular al usuario directamente con el contenido contado en forma de historia gráfica o audiovisual.',
+        'técnica de <em>marketing</em> cuyo objetivo es conectar y vincular al usuario directamente con el contenido contado en forma de historia gráfica o audiovisual.',
     },
   ],
   complementario: [

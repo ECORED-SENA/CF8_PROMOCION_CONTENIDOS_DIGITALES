@@ -16,11 +16,11 @@
           figure
             img.mt-3(src="@/assets/curso/tema5/2.svg" data-aos="zoom-in")
         .col-md-8.order-1.order-sm-0
-          p.mt-3(data-aos="fade-up") En las redes sociales los comentarios son considerados una métrica para evaluar el grado de aceptación de los usuarios con relación al contenido publicado. Los blog o los web-blog son uno de los canales digitales con mayor grado de participación de usuarios con comentarios teniendo en cuenta que su propósito es lograr la mayor interacción posible a través de la publicación constante de temas de interés para un público en particular. 
+          p.mt-3(data-aos="fade-up") En las redes sociales los comentarios son considerados una métrica para evaluar el grado de aceptación de los usuarios con relación al contenido publicado. Los #[em blog] o los #[em web-blog] son uno de los canales digitales con mayor grado de participación de usuarios con comentarios teniendo en cuenta que su propósito es lograr la mayor interacción posible a través de la publicación constante de temas de interés para un público en particular. 
           .cajon.color-primario.p-4.mt-4(style="background-color:#D7E4F6;")
-            p.mb-0(data-aos="fade-up") Los comentarios son los textos que los usuarios dejan en un blog con relación a un contenido publicado durante un periodo de tiempo determinado. Un blog es un sitio web que permite la constante interacción con el público de una comunidad basado en la continua publicación de información que resaltan algunos temas de interés específico.
+            p.mb-0(data-aos="fade-up") Los comentarios son los textos que los usuarios dejan en un #[em blog] con relación a un contenido publicado durante un periódo de tiempo determinado. Un #[em blog] es un sitio #[em web] que permite la constante interacción con el público de una comunidad basado en la continua publicación de información que resaltan algunos temas de interés específico.
         .col-md-12.order-3.order-sm-0
-          p.mt-3(data-aos="fade-up") Los comentarios también se pueden evaluar en diferentes canales digitales diferentes al blog; por ejemplo, la red social Facebook.
+          p.mt-3(data-aos="fade-up") Los comentarios también se pueden evaluar en diferentes canales digitales diferentes al #[em blog]; por ejemplo, la red social Facebook.
 
     br
     .cont_tema5_1.pb-5.mt-5(style="position:relative;")
@@ -100,7 +100,7 @@
               figure
                 img(src="@/assets/curso/tema5/10.svg")
             .tarjeta-slide__img.p-4.d-flex.align-items-center.justify-content-center
-              h3.text-center(style="color:#1169E3;font-size:18px;") Formulario de registro de inconformidades en el producto o servicio
+              h3.text-center(style="color:#1169E3;font-size:18px;") Formulario de registro de inconformidades en el producto o servicio.
 
     p.mt-5(data-aos="fade-up") Una herramienta muy eficaz para este tipo de trabajo digital es la plataforma Google Forms que permite crear, compartir formularios y realizar encuestas en línea para su análisis en tiempo real.
 
@@ -115,7 +115,9 @@
         .col-md-6(style="place-self:center;position:relative;height:100%;")
           .p-5(style="background-color:#D7E4F6;height:100%;")
             p(data-aos="fade-up" style="position:relative") Los mensajes son comentarios (la opinión de un usuario) que mediante el uso de plataformas especializadas permite la interacción de manera corta. En ocasiones con el propósito de no saturar los canales digitales las empresas utilizan este tipo de herramienta digital para solicitar información mediante mensaje de texto (SMS) a los usuarios con relación a un producto o servicio que ya han adquirido. Esta práctica se realiza a través de dispositivos móviles.
+
       .cont_tema5_3.pt-5.pb-5.mt-5(style="position:relative")
+        p(data-aos="fade-up" style="position:relative") Existen dos tipos de mensajes:
         figure.col-md-10.m-auto
           img(src="@/assets/curso/tema5/12.svg" data-aos="zoom-in-up" style="position:relative")
 
@@ -130,7 +132,7 @@
               figure
                 img(src="@/assets/curso/tema5/13.svg" data-aos="zoom-in" style="position:relative;")
             .col
-              h5.text-white.mb-0(style="position:relative" data-aos="fade-up") Globfone 
+              h5.text-white.mb-0(style="position:relative" data-aos="fade-up") #[em Globfone]
               p.text-white(style="position:relative" data-aos="fade-up") Se caracteriza por permitir que el remitente sea anónimo. No es necesario registrarse.
         .col-md-1(style="place-self:center")
           figure.text-center
@@ -141,7 +143,7 @@
               figure
                 img(src="@/assets/curso/tema5/15.svg" data-aos="zoom-in" style="position:relative;")
             .col
-              h5.text-white.mb-0(style="position:relative" data-aos="fade-up") SendSMSNow 
+              h5.text-white.mb-0(style="position:relative" data-aos="fade-up") #[em SendSMSNow]
               p.text-white(style="position:relative" data-aos="fade-up") Se caracteriza por no tener un límite geográfico. Se debe hacer registro para usarla.
         .col-md-1(style="place-self:center")
           figure.text-center
@@ -152,7 +154,7 @@
               figure
                 img(src="@/assets/curso/tema5/16.svg" data-aos="zoom-in" style="position:relative;")
             .col
-              h5.text-white.mb-0(style="position:relative" data-aos="fade-up") Open Texting Online  
+              h5.text-white.mb-0(style="position:relative" data-aos="fade-up") #[em Open Texting Online]
               p.text-white(style="position:relative" data-aos="fade-up") Se caracteriza por prestar sus servicios en varios países. No es necesario hacer registro y permite el anonimato.
       Separador.mt-4
 

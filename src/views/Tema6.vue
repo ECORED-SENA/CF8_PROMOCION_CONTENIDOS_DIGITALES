@@ -8,7 +8,7 @@
       h1 Seguidores
     .row
       .col-md-4(style="place-self:center;")
-        p(data-aos="fade-in") El número de seguidores dentro del contexto de las métricas y análisis web permite establecer qué tanto impacto está generando el contenido que se difunde a través de los medios digitales. Por ejemplo, realizada una campaña de promoción de un producto o servicio por medio digital o red social, se cuantifica si el número de seguidores aumentó o disminuyó. 
+        p(data-aos="fade-in") El número de seguidores dentro del contexto de las métricas y análisis #[em web] permite establecer qué tanto impacto está generando el contenido que se difunde a través de los medios digitales. Por ejemplo, realizada una campaña de promoción de un producto o servicio por medio digital o red social, se cuantifica si el número de seguidores aumentó o disminuyó. 
       .col-md-4.p-0
         figure
           img(src="@/assets/curso/tema6/1.svg" data-aos="zoom-in-up")
@@ -16,7 +16,7 @@
         .p-3(style="background-color:#C9F0EE;height:100%;")
           figure.d-none.d-md-block
             img(src="@/assets/curso/tema2/2.svg" data-aos="zoom-in-up" style="max-width:100px;")
-          p.mt-3.mb-0(data-aos="fade-in") De otra parte, seguidor es el resultado expresado numéricamente que permite cuantificar y validar el impacto de la estrategia de marketing digital en un público objetivo. Las redes sociales son las plataformas que más fácilmente permiten visualizar este tipo de resultados; y Facebook, Instagram y Twitter son algunas de ellas.
+          p.mt-3.mb-0(data-aos="fade-in") De otra parte, seguidor es el resultado expresado numéricamente que permite cuantificar y validar el impacto de la estrategia de #[em marketing] digital en un público objetivo. Las redes sociales son las plataformas que más fácilmente permiten visualizar este tipo de resultados; y Facebook, Instagram y Twitter son algunas de ellas.
 
     p.mt-5(data-aos="fade-up") Las redes sociales permiten la medición del número de seguidores, con base en estos resultados y su interacción se pueden clasificar de la siguiente manera: 
 
@@ -72,7 +72,7 @@
               img(src='@/assets/curso/tema6/8.png' alt='' style="position:relative;display:inline;margin-bottom:-85px;z-index:1;max-width:150px;" data-aos="zoom-in-up")
             .tarjeta.color-acento-contenido(style="position:relative;background-color:#C9F0EE;box-shadow:0px 0px 10px rgba(0,0,0,.10);")
               .p-4(style="position:relative")
-                p.text-center(data-aos="fade-up" style="position:relative;color:#12263F;") Evaluar el desempeño del marketing.
+                p.text-center(data-aos="fade-up" style="position:relative;color:#12263F;") Evaluar el desempeño del #[em marketing].
 
       .row.mt-5
         .col-md-5
@@ -80,7 +80,7 @@
             img(src="@/assets/curso/tema6/9.png" data-aos="zoom-in-up" style="position:relative")
         .col-md-7
           p.mt-3(data-aos="fade-up" style="position:relative") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;display:inline;") Medición]
-          p.mt-4(data-aos="fade-up" style="position:relative") Medir el número de seguidores en una red social para conocer su posteo con relación a otra red permitirá trazar nuevas estrategias de marketing para mejorar en la producción de contenido.
+          p.mt-4(data-aos="fade-up" style="position:relative") Medir el número de seguidores en una red social para conocer su posteo con relación a otra red permitirá trazar nuevas estrategias de #[em marketing] para mejorar en la producción de contenido.
           p.mt-4(data-aos="fade-up" style="position:relative") Una técnica para llevar una trazabilidad del número de seguidores es realizarla por periodos de tiempo y para ello se presenta la siguiente tabla como ejemplo: 
 
       p.mb-0.mt-5(data-aos="fade-up" style="position:relative;font-weight:bold;") Tabla 1
@@ -90,7 +90,6 @@
         .col-md-7
           .tabla-a.color-acento-botones(style="position:relative")
             table(style="position:relative")
-              caption(style="position:relative;font-weight:500;") Referencia Tabla - Norma APA
               thead(style="position:relative;border-top:none;")
                 tr(style="background-color:#29C4BB;position:relative")
                   th(style="color:#12263F;position:relative;border:0;") Fecha
@@ -104,18 +103,18 @@
                   td.p-3.text-center(style="position:relative;border:0;border-right:1px #AFAFAF solid;") 145
                   td.p-3.text-center(style="position:relative;border:0;") 198
                 tr(style="background-color:#FFFFFF;position:relative")
-                  td.p-3.text-center(style="position:relative;border:0;border-right:1px #AFAFAF solid;") 15-01-2021
-                  td.p-3.text-center(style="position:relative;border:0;border-right:1px #AFAFAF solid;") 150
-                  td.p-3.text-center(style="position:relative;border:0;border-right:1px #AFAFAF solid;") 145
-                  td.p-3.text-center(style="position:relative;border:0;") 198
+                  td.p-3.text-center(style="position:relative;border:0;border-right:1px #AFAFAF solid;") 30-01-2021
+                  td.p-3.text-center(style="position:relative;border:0;border-right:1px #AFAFAF solid;") 156
+                  td.p-3.text-center(style="position:relative;border:0;border-right:1px #AFAFAF solid;") 175
+                  td.p-3.text-center(style="position:relative;border:0;") 205
                 tr(style="background-color:#F6F6F6;position:relative")
-                  td.p-3.text-center(style="position:relative;border:0;border-right:1px #AFAFAF solid;") 15-01-2021
-                  td.p-3.text-center(style="position:relative;border:0;border-right:1px #AFAFAF solid;") 150
-                  td.p-3.text-center(style="position:relative;border:0;border-right:1px #AFAFAF solid;") 145
-                  td.p-3.text-center(style="position:relative;border:0;") 198
+                  td.p-3.text-center(style="position:relative;border:0;border-right:1px #AFAFAF solid;") 15-02-2021
+                  td.p-3.text-center(style="position:relative;border:0;border-right:1px #AFAFAF solid;") 185
+                  td.p-3.text-center(style="position:relative;border:0;border-right:1px #AFAFAF solid;") 201
+                  td.p-3.text-center(style="position:relative;border:0;") 190
         .col-md-5
           .p-5(style="background-color:#C9F0EE;")
-            p(data-aos="fade-up") De igual manera, para cada red social se debe hacer el seguimiento tomando como referencia la estrategia de marketing implementada (campaña de promoción de contenido) por periodos de tiempo, tal como se muestra a continuación a manera de ejemplo en la red social Instagram:
+            p(data-aos="fade-up") De igual manera, para cada red social se debe hacer el seguimiento tomando como referencia la estrategia de #[em marketing] implementada (campaña de promoción de contenido) por periódos de tiempo, tal como se muestra a continuación a manera de ejemplo en la red social Instagram:
 
       p.mb-0.mt-5(data-aos="fade-up" style="position:relative;font-weight:bold;") Tabla 2
       p.mb-0(style="font-style:italic;position:relative" data-aos="fade-up") Seguimiento a seguidores red social Instagram
@@ -159,12 +158,12 @@
               td.text-center.p-1 
               td.text-center.p-1 
               td.text-center.p-1 
-              td.text-center.p-1 
+              td.text-center.p-1 175
               td.text-center.p-1 55
               td.text-center.p-1 0
               td.text-center.p-1 0
 
-      p.mt-5(data-aos="fade-up") El ejemplo ilustrado en la anterior tabla hace referencia a dos campañas de promoción en una cuenta de la red social Instagram para una empresa de turismo o agencia de viajes que cada 15 días inicia una campaña de promoción de destinos turísticos obteniendo como resultados finales un incremento del 45,83% de nuevos seguidores en un periodo de 30 días.
+      p.mt-5(data-aos="fade-up") El ejemplo ilustrado en la anterior tabla hace referencia a dos campañas de promoción en una cuenta de la red social Instagram para una empresa de turismo o agencia de viajes que cada 15 días inicia una campaña de promoción de destinos turísticos obteniendo como resultados finales un incremento del 45,83% de nuevos seguidores en un periódo de 30 días.
 
       .col-md-10.m-auto.mt-5
         figure
