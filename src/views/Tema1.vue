@@ -5,12 +5,12 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Alistamiento y convocatoria según las necesidades de personal
+      h1 Métricas (KPI)
 
     .row.p-5.cont_tema1_1
       .col-md-6
-        p(data-aos="fade-in") Las métricas son la representación numérica de los objetivos como resultado de su seguimiento, valoración y comparación en un periodo de tiempo determinado. 
-        p.mt-4(data-aos="fade-in") El KPI - Key Performance Indicator significa Indicador Clave de Desempeño. Y el desempeño, como en toda estrategia o proyecto, no es más que la representación o esquematización de la información como resultado de una serie de acciones implementadas en un periodo determinado y con un objetivo definido. Así, un conjunto de indicadores representa las métricas de una estrategia.
+        p(data-aos="fade-in") Las métricas son la representación numérica de los objetivos como resultado de su seguimiento, valoración y comparación en un periódo de tiempo determinado. 
+        p.mt-4(data-aos="fade-in") El KPI - #[em Key Performance Indicator] significa Indicador Clave de Desempeño. Y el desempeño, como en toda estrategia o proyecto, no es más que la representación o esquematización de la información como resultado de una serie de acciones implementadas en un periódo determinado y con un objetivo definido. Así, un conjunto de indicadores representa las métricas de una estrategia.
 
     .cont_background_tema11.pb-5(style="position:relative")
       p.mt-5(data-aos="fade-up" style="position:relative;") La Implementación de KPI requiere de factores claves, por lo tanto, se requiere para su implementación en primera instancia resolver los siguientes interrogantes:
@@ -103,7 +103,7 @@
           figure
             img(src="@/assets/curso/tema1/11.svg" data-aos="fade-right" style="position:relative")
         .col-md-4
-          p(data-aos="fade-left" style="position:relative") Definir o clasificar un indicador depende del objetivo proyectado que se quiere controlar. Dentro del esquema del marketing digital hay varios tipos de KPI y a nivel empresarial estarán determinados conforme a la estructura orgánica de una compañía y las metas proyectadas. Las principales características de un indicador son:
+          p(data-aos="fade-left" style="position:relative") Definir o clasificar un indicador depende del objetivo proyectado que se quiere controlar. Dentro del esquema del <em>marketing</em> digital hay varios tipos de KPI y a nivel empresarial estarán determinados conforme a la estructura orgánica de una compañía y las metas proyectadas. Las principales características de un indicador son:
 
       SlyderF.mt-5(columnas="col-lg-6 col-xl-6" style="position:relative")
         .tarjeta.color-acento-contenido.p-4.cont_slyder1(style="background-color:#C9F0EE;height:100%;")
@@ -170,12 +170,12 @@
             figure
               img(src='@/assets/curso/tema1/18.svg', alt='')
 
-      .p-5(titulo="KPI e-commerce marketing digital" style="background-color:#D7E4F6;")
+      .p-5(titulo="<em>KPI e-commerce marketing</em> digital" style="background-color:#D7E4F6;")
         .row
           .col-md-5.mb-4.mb-md-0
-            h4 KPI e-commerce marketing digital
+            h4 <em>KPI e-commerce marketing</em> digital
             p Su función es medir las actividades del comercio electrónico. 
-            p.mt-4 #[span(style="color:#1169E3;") Algunos ejemplos son:] tráfico, fuentes de tráfico, coste por leads (adquisición), tasa de conversión, tiempo medio de visitas, visitas nuevas vs. visitas recurrentes, páginas vistas, entorno social.
+            p.mt-4 #[span(style="color:#1169E3;") Algunos ejemplos son:] tráfico, fuentes de tráfico, #[em coste por leads] (adquisición), tasa de conversión, tiempo medio de visitas, visitas nuevas vs. visitas recurrentes, páginas vistas, entorno social.
           .col-md-7
             figure
               img(src='@/assets/curso/tema1/19.svg', alt='')
@@ -195,7 +195,7 @@
           .col-md-5.mb-4.mb-md-0
             h4 KPI de redes sociales
             p Su función es medir los resultados de los tipos de medios, pagados, ganados y propios. 
-            p.mt-4 #[span(style="color:#1169E3;") Algunos ejemplos son:] número de seguidores, alcance, engagement.
+            p.mt-4 #[span(style="color:#1169E3;") Algunos ejemplos son:] número de seguidores, alcance, #[em engagement].
           .col-md-7
             figure
               img(src='@/assets/curso/tema1/21.svg', alt='')
@@ -214,8 +214,8 @@
           .col-md-7(style="position:relative")
             p.mt-4(data-aos="fade-up") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;") Estándares]
 
-            p.mt-4.parrafo_1(data-aos="fade-up" style="position:relative;z-index:1;") El establecimiento de indicadores conforme a los objetivos trazados depende del patrón o punto de referencia que se quiera medir dentro del segmento de mercado establecido. Cuando el indicador permite determinar una característica en particular de un grupo determinado de usuarios o público, se puede afirmar que hay un estándar identificado. Por ejemplo, la mayoría de usuarios que dieron Like a una última publicación, fue entre las edades de 18 a 24 años, el estándar identificado es jóvenes.
-        p.mt-3(data-aos="fade-up") Las técnicas de medición para las estrategias del marketing digital determinan el tiempo y el alcance que obtuvo una publicación en los medios digitales. Establecer un KPI para determinar la técnica que se utilizará para su medición depende del objetivo a alcanzar, por lo tanto, debe cumplir con ciertas características básicas. Por ejemplo, entre las técnicas para medir el comportamiento de las publicaciones en las redes sociales están Facebook Analytics, Google Analytics, Twitter Analytics, etc. 
+            p.mt-4.parrafo_1(data-aos="fade-up" style="position:relative;z-index:1;") El establecimiento de indicadores conforme a los objetivos trazados depende del patrón o punto de referencia que se quiera medir dentro del segmento de mercado establecido. Cuando el indicador permite determinar una característica en particular de un grupo determinado de usuarios o público, se puede afirmar que hay un estándar identificado. Por ejemplo, la mayoría de usuarios que dieron #[em Like] a una última publicación, fue entre las edades de 18 a 24 años, el estándar identificado es jóvenes.
+        p.mt-3(data-aos="fade-up") Las técnicas de medición para las estrategias del <em>marketing</em> digital determinan el tiempo y el alcance que obtuvo una publicación en los medios digitales. Establecer un KPI para determinar la técnica que se utilizará para su medición depende del objetivo a alcanzar, por lo tanto, debe cumplir con ciertas características básicas. Por ejemplo, entre las técnicas para medir el comportamiento de las publicaciones en las redes sociales están Facebook Analytics, Google Analytics, Twitter Analytics, etc. 
 
     p.mt-5(data-aos="fade-up") Algunas de las características del objetivo a medir son las siguientes:
 
@@ -224,12 +224,13 @@
 
       br
       .row.mt-5(style="position:relative")
+        p.mt-4(data-aos="fade-up") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;") Tasa de conversión]
         .col-md-4.order-2.order-sm-0(style="position:relative")
           figure(style="position:relative")
             img.mt-2(src="@/assets/curso/tema1/30.svg" data-aos="zoom-in")
         .col-md-8.order-1.order-sm-0(style="position:relative")
-          p(data-aos="fade-up") El embudo en marketing digital representa el proceso de conversión de un internauta una vez es atraído por alguna publicación en cualquier canal digital. 
-          p.mt-4(data-aos="fade-up") La tasa de conversión permitirá establecer el nivel de efectividad logrado en periodos de tiempo y aplicar benchmarking.
+          p(data-aos="fade-up") El embudo en <em>marketing</em> digital representa el proceso de conversión de un internauta una vez es atraído por alguna publicación en cualquier canal digital. 
+          p.mt-4(data-aos="fade-up") La tasa de conversión permitirá establecer el nivel de efectividad logrado en periódos de tiempo y aplicar #[em benchmarking].
 
           .mt-4.p-4(style="background-color:#C9F0EE;border-radius:15px;")
             .row(style="position:relative")
@@ -239,13 +240,13 @@
               .col-md-9(style="position:relative")
                 h5(style="color:#1169E3;") Cálculo. La tasa de conversión se calcula dividiendo:
                 p.mb-0(data-aos="fade-up" style="text-align:center;color:black;background-color:white;padding: 10px 30px;box-shadow:0px 0px 10px rgba(0,0,0,.1);border-radius:50px;font-weight:bold;") Número de conversiones totales / Número de visitas totales
-                p.mt-1.mb-0(data-aos="fade-up") Un ejemplo claro del proceso de conversión es un seguidor a un cliente. Este se hace cuando un seguidor toma la decisión de realizar una compra por cualquier plataforma e-commerce, a este paso se le denomina conversión.
+                p.mt-1.mb-0(data-aos="fade-up") Un ejemplo claro del proceso de conversión es un seguidor a un cliente. Este se hace cuando un seguidor toma la decisión de realizar una compra por cualquier plataforma #[em e-commerce], a este paso se le denomina conversión.
 
     .row.mt-5.p-5(style="border-radius:5px;background-color:#ECF2F2;")
       .col-md-7
         p(data-aos="fade-up") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;") Volumen de tráfico ]
-        p.mt-4.mb-0(data-aos="fade-up") El volumen de tráfico está determinado especialmente por la cantidad de accesos que un contenido logra obtener durante un tiempo determinado una vez es publicado en un sitio web, página o blog.
-        p.mt-4.mb-0(data-aos="fade-up") Esta métrica permite analizar el impacto de la estrategia de marketing digital conforme al tráfico que se obtenga de manera orgánica y el que se logre utilizando medios pagados. 
+        p.mt-4.mb-0(data-aos="fade-up") El volumen de tráfico está determinado especialmente por la cantidad de accesos que un contenido logra obtener durante un tiempo determinado una vez es publicado en un sitio #[em web], página o #[em blog].
+        p.mt-4.mb-0(data-aos="fade-up") Esta métrica permite analizar el impacto de la estrategia de <em>marketing</em> digital conforme al tráfico que se obtenga de manera orgánica y el que se logre utilizando medios pagados. 
       .col-md-5
         figure
           img(src="@/assets/curso/tema1/32.png" data-aos="zoom-in-up")
@@ -256,15 +257,15 @@
           img(src="@/assets/curso/tema1/33.png" data-aos="zoom-in-up")
       .col-md-7
         p(data-aos="fade-up") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;") Número de visitas]
-        p.mt-4.mb-0(data-aos="fade-up") El número de visitantes a un sitio web, página o blog permite aumentar las posibilidades de mayor alcance del contenido de manera orgánica.
+        p.mt-4.mb-0(data-aos="fade-up") El número de visitantes a un sitio #[em web], página o #[em blog] permite aumentar las posibilidades de mayor alcance del contenido de manera orgánica.
         p.mt-4.mb-0(data-aos="fade-up") En la medida que el contenido genere un valor para cada visitante, este replicará nuestro contenido a manera de información. 
-        p(data-aos="fade-up") Un ejemplo de esta práctica son los links de suscripción a cursos virtuales gratuitos.
+        p(data-aos="fade-up") Un ejemplo de esta práctica son los #[em links] de suscripción a cursos virtuales gratuitos.
 
     .row.mt-5.p-5(style="border-radius:5px;background-color:#ECF2F2;")
       .col-md-7
         p(data-aos="fade-up") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;") Tasa de rebote ]
-        p.mt-4.mb-0(data-aos="fade-up") El comportamiento de los internautas cuando visitan un sitio web o página depende mucho del contenido y del valor agregado que esta pueda aportar, su permanencia e interacción está sujeto al interés que podamos despertar en él. 
-        p.mt-4.mb-0(data-aos="fade-up") La tasa de rebote es entonces aquella que calcula el porcentaje de usuarios que dejan un sitio web, página o blog antes de interactuar con esta de alguna forma.
+        p.mt-4.mb-0(data-aos="fade-up") El comportamiento de los internautas cuando visitan un sitio #[em web] o página depende mucho del contenido y del valor agregado que esta pueda aportar, su permanencia e interacción está sujeto al interés que podamos despertar en él. 
+        p.mt-4.mb-0(data-aos="fade-up") La tasa de rebote es entonces aquella que calcula el porcentaje de usuarios que dejan un sitio #[em web], página o #[em blog] antes de interactuar con esta de alguna forma.
       .col-md-5
         figure
           img(src="@/assets/curso/tema1/34.png" data-aos="zoom-in-up")
@@ -273,7 +274,7 @@
 
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/GKqM5LHPmfw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 
@@ -316,7 +317,7 @@ export default {
       {
         titulo: 'Que sea limitado en el tiempo',
         texto:
-          'Un indicador de rendimiento clave debe estar supeditado a un periodo temporal concreto.',
+          'Un indicador de rendimiento clave debe estar supeditado a un periódo temporal concreto.',
         icono: require('@/assets/curso/tema1/29.svg'),
       },
     ],

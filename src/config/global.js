@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Fundamentos de analítica web',
     descripcionCurso:
-      'La analítica web es el conjunto de técnicas para la medición del tráfico en un sitio web cuyo propósito es lograr la optimización de su uso para el internauta. En el presente componente profundizaremos en los conceptos, tipos y técnicas de los principales temas de la analítica web abarcando los siguientes temas: métricas, engagement, interacción, reacciones, comentarios, seguidores y reporte.',
+      'La analítica web es el conjunto de técnicas para la medición del tráfico en un sitio web cuyo propósito es lograr la optimización de su uso para el internauta. En el presente componente profundizaremos en los conceptos, tipos y técnicas de los principales temas de la analítica web abarcando los siguientes temas: métricas, <em>engagement</em>, interacción, reacciones, comentarios, seguidores y reporte.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [

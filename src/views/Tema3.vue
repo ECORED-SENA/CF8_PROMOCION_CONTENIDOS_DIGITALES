@@ -14,15 +14,15 @@
       .col-md-6(style="position:relative")
         p.parrafo_31(data-aos="fade-in" style="position:relative;z-index:1;") “Una de las ventajas que se le incorpora a la red como instrumento para la formación, es la posibilidad que nos ofrece para la interacción y la comunicación de manera sincrónica y asincrónica entre las personas” (Cabero y Llorente, 2007).
         p.mt-4(data-aos="fade-in") La interacción ocurre cuando el usuario, a través de los diferentes canales digitales, hace contacto y se obtiene información acerca de él. Es la manera de expresar las emociones en el ciberespacio al consumir algún tipo de contenido que es de interés.
-        p.mt-4(data-aos="fade-in")  La interacción on line se puede definir como aquella que se origina por la influencia del contenido (lead magnet) en el ciberespacio que tiene como propósito resolver un problema específico a un público específico a cambio de un opt-in; por ejemplo, datos de contacto, e-mail, etc.
+        p.mt-4(data-aos="fade-in")  La interacción #[em on line] se puede definir como aquella que se origina por la influencia del contenido (#[em lead magnet]) en el ciberespacio que tiene como propósito resolver un problema específico a un público específico a cambio de un #[em opt-in]; por ejemplo, datos de contacto, #[em e-mail], etc.
 
     .row.mt-5.p-4(style="background-color:#C9F0EE;border-radius:15px;")
       .col-auto
         figure
           img(src="@/assets/curso/tema2/9.svg" data-aos="zoom-in-up")
       .col(style="place-self:center;")
-        p.mb-0(data-aos="fade-up") #[strong ¿Qué es un lead magnet?]
-        p.mb-0(data-aos="fade-up") En su traducción al español significa “imán de plomo”, en el mundo web hace referencia a esa pequeña oferta (imán) para atraer un cibernauta. #[span(style="color:#1169E3;") Por ejemplo: Haz este curso de 5 semanas en (tema) y conviértete en experto. Regístrate en el siguiente link].
+        p.mb-0(data-aos="fade-up") #[strong ¿Qué es un #[em lead magnet]?]
+        p.mb-0(data-aos="fade-up") En su traducción al español significa “imán de plomo”, en el mundo #[em web] hace referencia a esa pequeña oferta (imán) para atraer un cibernauta. #[span(style="color:#1169E3;") Por ejemplo: Haz este curso de 5 semanas en (tema) y conviértete en experto. Regístrate en el siguiente #[em link]].
 
     p.mt-5(data-aos="fade-up") Para comprender mejor este término, se presentan las características más destacadas a nivel presencial.
 
@@ -97,8 +97,7 @@ export default {
       },
       {
         titulo: '',
-        texto:
-          'Permite cuantificar las medidas y los beneficios que se esperan.',
+        texto: 'Presencia manifiesta de la tecnología',
         icono: require('@/assets/curso/tema3/5.svg'),
       },
       {
@@ -108,7 +107,7 @@ export default {
       },
       {
         titulo: '',
-        texto: 'Audiencia. inabarcable ',
+        texto: 'Audiencia inabarcable ',
         icono: require('@/assets/curso/tema3/7.svg'),
       },
       {
