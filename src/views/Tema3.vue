@@ -71,7 +71,7 @@
 
     p.mt-5(data-aos="fade-up" style="position:relative") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;") Tiempos]
 
-    p.mt-4(data-aos="fade-up") El tiempo en la interacción está relacionado con el proceso de optimización del valor del cliente haciendo referencia a los pasos a seguir como estrategia del marketing de contenidos. A continuación, se presenta el paso a paso en la optimización del valor del cliente para incentivar su interacción.
+    p.mt-4(data-aos="fade-up") El tiempo en la interacción está relacionado con el proceso de optimización del valor del cliente haciendo referencia a los pasos a seguir como estrategia del #[em marketing] de contenidos. A continuación, se presenta el paso a paso en la optimización del valor del cliente para incentivar su interacción.
 
     figure.mt-5.col-md-10.m-auto
       img(src="@/assets/curso/tema3/14.svg" data-aos="zoom-in-up")
