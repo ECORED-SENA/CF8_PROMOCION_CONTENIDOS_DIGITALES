@@ -122,7 +122,7 @@
           p(numero="3" titulo="<em>Clics</em> totales") Número de usuarios que dieron #[em clic] en el #[em link] de la publicación y llegaron al sitio #[em web].
           p(numero="4" titulo="Ganancias") Valor en dinero que refleja la utilidad obtenida.
       .col-md-6
-        figure
+        figure.mt-4
           img(src="@/assets/curso/tema7/8.png" data-aos="fade-left")
 
     .cont_tema7_2.pb-5.mt-4(style="position:relative;")
@@ -131,7 +131,7 @@
           figure
             img(src="@/assets/curso/tema7/9.png" data-aos="fade-right" style="position:relative")
         .col-md-6
-          LineaTiempoD.color-acento-contenido(style="position:relative")
+          LineaTiempoD.color-acento-contenido.mt-4(style="position:relative")
             p(numero="5" titulo="GPC (totales)" style="position:relative") Es la división de las ganancias entre la cantidad de #[em clics] obtenidos. Ganancias por #[em clic].
             p(numero="6" titulo="GPS (semanal)" style="position:relative") Es un reporte que genera la plataforma de la red social directamente, para obtenerlo se debe ingresar al panel de control de la red. Por ejemplo, Facebook Analytics. Ganancias por #[em clic] semanal.
             p(numero="7" titulo="REI (Retorno en la Inversión)" style="position:relative") Es el excedente o faltante de restar las ganancias con la inversión y posterior a ello se realiza el cálculo para determinar porcentualmente si la utilidad es positiva o negativa. 
@@ -240,4 +240,6 @@ export default {
 .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
   background-color: #CBEDEB !important
   color: #12263F !important
+.tarjeta--gris
+  background-color: #D7E4F6
 </style>

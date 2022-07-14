@@ -12,15 +12,15 @@
         figure
           img(src="@/assets/curso/tema3/1.png" data-aos="zoom-in-up")
       .col-md-6(style="position:relative")
-        p.parrafo_31(data-aos="fade-in" style="position:relative;z-index:1;") “Una de las ventajas que se le incorpora a la red como instrumento para la formación, es la posibilidad que nos ofrece para la interacción y la comunicación de manera sincrónica y asincrónica entre las personas” (Cabero y Llorente, 2007).
+        p.parrafo_31.mt-4(data-aos="fade-in" style="position:relative;z-index:1;") “Una de las ventajas que se le incorpora a la red como instrumento para la formación, es la posibilidad que nos ofrece para la interacción y la comunicación de manera sincrónica y asincrónica entre las personas” (Cabero y Llorente, 2007).
         p.mt-4(data-aos="fade-in") La interacción ocurre cuando el usuario, a través de los diferentes canales digitales, hace contacto y se obtiene información acerca de él. Es la manera de expresar las emociones en el ciberespacio al consumir algún tipo de contenido que es de interés.
         p.mt-4(data-aos="fade-in")  La interacción #[em on line] se puede definir como aquella que se origina por la influencia del contenido (#[em lead magnet]) en el ciberespacio que tiene como propósito resolver un problema específico a un público específico a cambio de un #[em opt-in]; por ejemplo, datos de contacto, #[em e-mail], etc.
 
     .row.mt-5.p-4(style="background-color:#C9F0EE;border-radius:15px;")
-      .col-auto
-        figure
-          img(src="@/assets/curso/tema2/9.svg" data-aos="zoom-in-up")
-      .col(style="place-self:center;")
+      .col-md-2
+        figure.text-center
+          img(src="@/assets/curso/tema2/9.svg" data-aos="zoom-in-up" style="display:inline;max-width:100px;")
+      .col-md-10(style="place-self:center;")
         p.mb-0(data-aos="fade-up") #[strong ¿Qué es un #[em lead magnet]?]
         p.mb-0(data-aos="fade-up") En su traducción al español significa “imán de plomo”, en el mundo #[em web] hace referencia a esa pequeña oferta (imán) para atraer un cibernauta. #[span(style="color:#1169E3;") Por ejemplo: Haz este curso de 5 semanas en (tema) y conviértete en experto. Regístrate en el siguiente #[em link]].
 
@@ -175,5 +175,16 @@ export default {
   background-repeat: no-repeat
   background: url(../assets/curso/tema3/2.png)
 .linea-tiempo-b__icon img
-  width: 60%
+  width: 45%
+.tarjeta-avatar-b__img
+  min-width: 30%
+.linea-tiempo-b.color-acento-contenido .linea-tiempo-b__icon
+  background-color: #29C4BB
+  max-width: 50%
+  max-height: 50%
+  margin: 0 auto
+.linea-tiempo-b__icon
+  padding-top: 50%
+  border-radius: 50%
+  position: relative
 </style>

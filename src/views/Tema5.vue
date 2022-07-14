@@ -53,7 +53,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido
               figure
-                img(src="@/assets/curso/tema5/5.svg")
+                img(src="@/assets/curso/tema5/5.png")
             .tarjeta-slide__img.p-4.d-flex.align-items-center.justify-content-center
               h3.text-center(style="color:#1169E3;font-size:18px;") Formulario de comentarios de clientes.
       .col-sm-6.col-xl-2.col-lg-2.mb-4.mb-xl-0
@@ -62,7 +62,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido
               figure
-                img(src="@/assets/curso/tema5/6.svg")
+                img(src="@/assets/curso/tema5/6.png")
             .tarjeta-slide__img.p-4.d-flex.align-items-center.justify-content-center
               h3.text-center(style="color:#1169E3;font-size:18px;") Formulario de contacto.
       .col-sm-6.col-xl-2.col-lg-2.mb-4.mb-xl-0
@@ -71,7 +71,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido
               figure
-                img(src="@/assets/curso/tema5/7.svg")
+                img(src="@/assets/curso/tema5/7.png")
             .tarjeta-slide__img.p-4.d-flex.align-items-center.justify-content-center
               h3.text-center(style="color:#1169E3;font-size:18px;") Formulario de solicitud de empleo.
       .col-sm-6.col-xl-2.col-lg-2.mb-4.mb-xl-0
@@ -80,7 +80,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido
               figure
-                img(src="@/assets/curso/tema5/8.svg")
+                img(src="@/assets/curso/tema5/8.png")
             .tarjeta-slide__img.p-4.d-flex.align-items-center.justify-content-center
               h3.text-center(style="color:#1169E3;font-size:18px;") Formulario de membresía.
       .col-sm-6.col-xl-2.col-lg-2.mb-4.mb-xl-0
@@ -89,7 +89,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido
               figure
-                img(src="@/assets/curso/tema5/9.svg")
+                img(src="@/assets/curso/tema5/9.png")
             .tarjeta-slide__img.p-4.d-flex.align-items-center.justify-content-center
               h3.text-center(style="color:#1169E3;font-size:18px;") Formulario de comentarios evaluación de un producto o servicio.
       .col-sm-6.col-xl-2.col-lg-2.mb-4.mb-xl-0
@@ -98,7 +98,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido
               figure
-                img(src="@/assets/curso/tema5/10.svg")
+                img(src="@/assets/curso/tema5/10.png")
             .tarjeta-slide__img.p-4.d-flex.align-items-center.justify-content-center
               h3.text-center(style="color:#1169E3;font-size:18px;") Formulario de registro de inconformidades en el producto o servicio.
 
@@ -119,7 +119,7 @@
       .cont_tema5_3.pt-5.pb-5.mt-5(style="position:relative")
         p(data-aos="fade-up" style="position:relative") Existen dos tipos de mensajes:
         figure.col-md-10.m-auto
-          img(src="@/assets/curso/tema5/12.svg" data-aos="zoom-in-up" style="position:relative")
+          img(src="@/assets/curso/tema5/12.png" data-aos="zoom-in-up" style="position:relative")
 
       p.mt-5(data-aos="fade-up" style="position:relative") Un ejemplo de esta práctica de mensajería digital la realizan con frecuencia las empresas de telefonía móvil después que un cliente ha recibido algún servicio y se le solicita responder una encuesta de cinco preguntas con respuestas numéricas para fácil desarrollo del proceso.
       p.mt-5(data-aos="fade-up" style="position:relative") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;display:inline;") Plataformas]
@@ -188,7 +188,7 @@ export default {
   height: 108%
   width: 115%
   left: -7%
-  top: -8%
+  top: -3%
   background-color: #B0C8CB
 .cont_before1:hover
   background-color: #D7E4F6 !important

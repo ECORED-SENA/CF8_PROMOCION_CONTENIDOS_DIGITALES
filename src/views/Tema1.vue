@@ -22,21 +22,21 @@
               img(src='@/assets/curso/tema1/3.svg' alt='' style="position:relative")
             .tarjeta.tarjeta--azul(style="place-self:center;background-color:#C9F0EE;height:100%;")
               .p-5(style="position:relative")
-                p.mb-0(data-aos="fade-up" style="position:relative") #[strong(style="color:#1169E3;") ¿Qué se quiere medir?]
+                p.mb-0(data-aos="fade-up" style="position:relative") #[strong(style="color:#1169E3;font-size:18px;") ¿Qué se quiere medir?]
         .col-md-4.mb-3(style="position:relative")
           .tarjeta-avatar-b(style="position:relative;height:100%;")
             .tarjeta-avatar-b__img(style="position:relative")
               img(src='@/assets/curso/tema1/4.svg' alt='' style="position:relative")
             .tarjeta.tarjeta--azul(style="place-self:center;background-color:#C9F0EE;height:100%;")
               .p-5(style="position:relative")
-                p.mb-0(data-aos="fade-up" style="position:relative") #[strong(style="color:#1169E3;") ¿Por qué se mide específicamente esa acción?]
+                p.mb-0(data-aos="fade-up" style="position:relative") #[strong(style="color:#1169E3;font-size:18px;") ¿Por qué se mide específicamente esa acción?]
         .col-md-4.mb-3(style="position:relative")
           .tarjeta-avatar-b(style="position:relative;height:100%;")
             .tarjeta-avatar-b__img(style="position:relative")
               img(src='@/assets/curso/tema1/5.svg' alt='' style="position:relative")
             .tarjeta.tarjeta--azul(style="place-self:center;background-color:#C9F0EE;height:100%;")
               .p-5(style="position:relative")
-                p.mb-0(data-aos="fade-up" style="position:relative") #[strong(style="color:#1169E3;") ¿Esa acción permite el seguimiento de alguno de los objetivos con sus resultados?]
+                p.mb-0(data-aos="fade-up" style="position:relative") #[strong(style="color:#1169E3;font-size:18px;") ¿Esa acción permite el seguimiento de alguno de los objetivos con sus resultados?]
 
       .row.mt-5(style="position:relative")
         .col-md-4.mb-3(style="position:relative")
@@ -45,21 +45,21 @@
               img(src='@/assets/curso/tema1/6.svg' alt='' style="position:relative")
             .tarjeta.tarjeta--azul(style="place-self:center;background-color:#C9F0EE;height:100%;")
               .p-5(style="position:relative")
-                p.mb-0(data-aos="fade-up" style="position:relative") #[strong(style="color:#1169E3;") ¿La acción es un factor clave para la empresa?]
+                p.mb-0(data-aos="fade-up" style="position:relative") #[strong(style="color:#1169E3;font-size:18px;") ¿La acción es un factor clave para la empresa?]
         .col-md-4.mb-3(style="position:relative")
           .tarjeta-avatar-b(style="position:relative;height:100%;")
             .tarjeta-avatar-b__img(style="position:relative")
               img(src='@/assets/curso/tema1/7.svg' alt='' style="position:relative")
             .tarjeta.tarjeta--azul(style="place-self:center;background-color:#C9F0EE;height:100%;")
               .p-5(style="position:relative")
-                p.mb-0(data-aos="fade-up" style="position:relative") #[strong(style="color:#1169E3;") ¿Quién es el responsable de los resultados de la acción?]
+                p.mb-0(data-aos="fade-up" style="position:relative") #[strong(style="color:#1169E3;font-size:18px;") ¿Quién es el responsable de los resultados de la acción?]
         .col-md-4.mb-3(style="position:relative")
           .tarjeta-avatar-b(style="position:relative;height:100%;")
             .tarjeta-avatar-b__img(style="position:relative")
               img(src='@/assets/curso/tema1/8.svg' alt='' style="position:relative")
             .tarjeta.tarjeta--azul(style="place-self:center;background-color:#C9F0EE;height:100%;")
               .p-5(style="position:relative")
-                p.mb-0(data-aos="fade-up" style="position:relative") #[strong(style="color:#1169E3;") ¿Con qué frecuencia se realizará la supervisión de los resultados de la acción?]
+                p.mb-0(data-aos="fade-up" style="position:relative") #[strong(style="color:#1169E3;font-size:18px;") ¿Con qué frecuencia se realizará la supervisión de los resultados de la acción?]
 
       p.mt-5(data-aos="fade-up" style="position:relative") Igualmente, es importante conocer las ventajas de su utilización:
 
@@ -103,35 +103,35 @@
           figure
             img(src="@/assets/curso/tema1/11.svg" data-aos="fade-right" style="position:relative")
         .col-md-4
-          p(data-aos="fade-left" style="position:relative") Definir o clasificar un indicador depende del objetivo proyectado que se quiere controlar. Dentro del esquema del <em>marketing</em> digital hay varios tipos de KPI y a nivel empresarial estarán determinados conforme a la estructura orgánica de una compañía y las metas proyectadas. Las principales características de un indicador son:
+          p.mt-4(data-aos="fade-left" style="position:relative") Definir o clasificar un indicador depende del objetivo proyectado que se quiere controlar. Dentro del esquema del <em>marketing</em> digital hay varios tipos de KPI y a nivel empresarial estarán determinados conforme a la estructura orgánica de una compañía y las metas proyectadas. Las principales características de un indicador son:
 
       SlyderF.mt-5(columnas="col-lg-6 col-xl-6" style="position:relative")
         .tarjeta.color-acento-contenido.p-4.cont_slyder1(style="background-color:#C9F0EE;height:100%;")
           .row.justify-content-center.mb-3
             .col-8.text-center
-              img(src='@/assets/curso/tema1/12.svg' alt='' style="max-width:150px;display:inline;")
-          h2.text-center(style="color:#12263F;") KPI específico 
+              img(src='@/assets/curso/tema1/12.svg' alt='' style="max-width:110px;display:inline;")
+          h2.text-center(style="color:#12263F;font-size:18px;") KPI específico 
           p.text-center(style="color:#12263F;") Hace referencia a un tema en particular. Se caracteriza por ser muy concreto permitiendo el seguimiento y control a los objetivos trazados.
 
         .tarjeta.color-acento-contenido.p-4.cont_slyder1(style="background-color:#C9F0EE;height:100%;")
           .row.justify-content-center.mb-3
             .col-8.text-center
-              img(src='@/assets/curso/tema1/13.svg' alt='' style="max-width:150px;display:inline;")
-          h2.text-center(style="color:#12263F;") KPI medible
+              img(src='@/assets/curso/tema1/13.svg' alt='' style="max-width:110px;display:inline;")
+          h2.text-center(style="color:#12263F;font-size:18px;") KPI medible
           p.text-center(style="color:#12263F;") Hace referencia a los resultados obtenidos. Se caracteriza por permitir un control más exhaustivo sobre los objetivos proyectados en tiempo real.
 
         .tarjeta.color-acento-contenido.p-4.cont_slyder1(style="background-color:#C9F0EE;height:100%;")
           .row.justify-content-center.mb-3
             .col-8.text-center
-              img(src='@/assets/curso/tema1/14.svg' alt='' style="max-width:150px;display:inline;")
-          h2.text-center(style="color:#12263F;") KPI temporal
+              img(src='@/assets/curso/tema1/14.svg' alt='' style="max-width:110px;display:inline;")
+          h2.text-center(style="color:#12263F;font-size:18px;") KPI temporal
           p.text-center(style="color:#12263F;") Hace referencia a los tiempos de cumplimiento de cada objetivo propuesto. Se caracteriza porque permite la comparación con otros objetivos a corto, mediano y largo plazo. 
 
         .tarjeta.color-acento-contenido.p-4.cont_slyder1(style="background-color:#C9F0EE;height:100%;")
           .row.justify-content-center.mb-3
             .col-8.text-center
-              img(src='@/assets/curso/tema1/15.svg' alt='' style="max-width:150px;display:inline;")
-          h2.text-center(style="color:#12263F;") KPI relevante
+              img(src='@/assets/curso/tema1/15.svg' alt='' style="max-width:110px;display:inline;")
+          h2.text-center(style="color:#12263F;font-size:18px;") KPI relevante
           p.text-center(style="color:#12263F;") Hace referencia al análisis de información que verdaderamente interesa. Se caracteriza por identificar las necesidades de la empresa y definir los KPI que permitirán el cumplimiento de objetivos.
 
     br
@@ -388,4 +388,15 @@ export default {
   background-repeat: no-repeat
 .linea-tiempo-b__icon img
   width: 60%
+.tarjeta-avatar-b__img
+  min-width: 30%
+.linea-tiempo-b.color-acento-contenido .linea-tiempo-b__icon
+  background-color: #29C4BB
+  max-width: 50%
+  max-height: 50%
+  margin: 0 auto
+.linea-tiempo-b__icon
+  padding-top: 50%
+  border-radius: 50%
+  position: relative
 </style>

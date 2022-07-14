@@ -47,42 +47,42 @@ export default {
   padding-bottom: 0 !important
 .banner-principal-decorativo-1
   top: 65% !important
-  right: 90% !important
+  right: 95% !important
   -webkit-animation: float1 3.5s ease-in-out infinite alternate
   animation: float1 3.5s ease-in-out infinite alternate
 .banner-principal-decorativo-2
   top: 65% !important
-  right: 80% !important
+  right: 85% !important
   -webkit-animation: float1 3.5s ease-in-out infinite alternate
   animation: float1 3.5s ease-in-out infinite alternate
 .banner-principal-decorativo-3
   top: 40% !important
-  right: 65% !important
+  right: 70% !important
   -webkit-animation: float1 3.5s ease-in-out infinite alternate
   animation: float1 3.5s ease-in-out infinite alternate
 .banner-principal-decorativo-4
   top: 5% !important
-  right: 45% !important
+  right: 50% !important
   -webkit-animation: float1 3.5s ease-in-out infinite alternate
   animation: float1 3.5s ease-in-out infinite alternate
 .banner-principal-decorativo-5
   top: 60% !important
-  right: 35% !important
+  right: 40% !important
   -webkit-animation: float1 3.5s ease-in-out infinite alternate
   animation: float1 3.5s ease-in-out infinite alternate
 .banner-principal-decorativo-6
   top: 40% !important
-  right: 5% !important
+  right: 10% !important
   -webkit-animation: float1 3.5s ease-in-out infinite alternate
   animation: float1 3.5s ease-in-out infinite alternate
 .banner-principal-decorativo-7
   top: 60% !important
-  right: 0% !important
+  right: 5% !important
   -webkit-animation: float1 3.5s ease-in-out infinite alternate
   animation: float1 3.5s ease-in-out infinite alternate
 .banner-principal-decorativo-8
   top: 85% !important
-  right: 0% !important
+  right: 5% !important
   -webkit-animation: float1 3.5s ease-in-out infinite alternate
   animation: float1 3.5s ease-in-out infinite alternate
 </style>

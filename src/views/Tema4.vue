@@ -15,14 +15,14 @@
 
     br
     br
-    .cont_tema4_2.pb-5.mt-5(style="position:relative;")
+    .cont_tema4_2.pb-5(style="position:relative;")
       p.mt-5(data-aos="fade-up" style="position:relative") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;") Tipos]
       p.mt-4(data-aos="fade-up" style="position:relative") El tiempo en la interacción está relacionado con el proceso de optimización del valor del cliente haciendo referencia a los pasos a seguir como estrategia del #[em marketing] de contenidos. A continuación, se presenta el paso a paso en la optimización del valor del cliente para incentivar su interacción. 
       .row.mt-5
         .col-md-4
           figure
             img(src="@/assets/curso/tema4/2.svg" data-aos="zoom-in-up" style="position:relative")
-        .col-md-7
+        .col-md-7(style="place-self:center;")
           p(data-aos="fade-up" style="position:relative") Las campañas en las redes sociales bajo el parámetro de las reacciones permiten evaluar las publicaciones con base en las emociones de los clientes o usuarios. La utilización de íconos o #[em emojis] se ha convertido en un centro de validación de información muy útil a la hora de conocer qué piensa el consumidor sobre determinado producto o servicio; la red social Facebook permite a través de sus algoritmos realizar este tipo de mediciones. 
       p.mt-5(data-aos="fade-up" style="position:relative") Los íconos más reconocidos son:
 
@@ -49,12 +49,12 @@
           p(data-aos="fade-up" style="position:relative") Cara sorprendida.
         .col-lg-2.col-md-4.mb-3
           figure
-            img(src="@/assets/curso/tema4/7.svg" data-aos="zoom-in-up" style="position:relative;")
+            img(src="@/assets/curso/tema4/7.svg" data-aos="zoom-in-up" style="position:relative;height:175px;")
           h4.mt-2.mb-0(data-aos="fade-up" style="position:relative;color:#1169E3;") Triste
           p(data-aos="fade-up" style="position:relative") Cara llorando, mostrando una lágrima animada.
         .col-lg-2.col-md-4.mb-3
           figure
-            img(src="@/assets/curso/tema4/8.svg" data-aos="zoom-in-up" style="position:relative;")
+            img(src="@/assets/curso/tema4/8.svg" data-aos="zoom-in-up" style="position:relative;height:175px;")
           h4.mt-2.mb-0(data-aos="fade-up" style="position:relative;color:#1169E3;") Enojado
           p(data-aos="fade-up" style="position:relative") Cara roja / enojada / haciendo pucheros.
 
@@ -96,7 +96,7 @@ export default {
 </script>
 <style lang="sass">
 .cont_tema4_1
-  background: url(../assets/curso/tema4/1.svg)
+  background: url(../assets/curso/tema4/1.png)
   background-repeat: no-repeat
   background-size: cover
   border-radius: 15px
@@ -106,6 +106,6 @@ export default {
   height: 108%
   width: 115%
   left: -7%
-  top: -8%
+  top: -2%
   background-color: #EAF1FA
 </style>
