@@ -16,7 +16,7 @@
         figure
           img(src="@/assets/curso/tema7/1.png" data-aos="zoom-in-up")
 
-    p.mt-5(data-aos="fade-up") En términos generales un reporte hace referencia al conjunto de datos compilados en un informe que detalla el comportamiento de las variables de estudio de manera cuantitativa para su análisis y posterior toma de decisiones. Su característica principal es mostrar el comportamiento de las variables en un periódo de tiempo establecido.
+    p.mt-5(data-aos="fade-up") En términos generales un reporte hace referencia al conjunto de datos compilados en un informe que detalla el comportamiento de las variables de estudio de manera cuantitativa para su análisis y posterior toma de decisiones. Su característica principal es mostrar el comportamiento de las variables en un período de tiempo establecido.
     p.mt-4(data-aos="fade-up") Los resultados de las investigaciones pueden ser cuantitativas y cualitativas en esta oportunidad se hace referencia a informes de datos cuantitativos.
 
     br
@@ -42,9 +42,9 @@
           p(data-aos="fade-up" style="position:relative") Esta técnica aplica especialmente para los modelos de negocio cuya sostenibilidad en el mercado depende del número de suscriptores (miembros). Por ejemplo, las plataformas de películas como Netflix, Amazon Prime.
           p.mb-0.mt-4(data-aos="fade-up" style="position:relative;font-weight:bold;") Ecuación para el cálculo
           p.mb-0(data-aos="fade-up" style="position:relative;font-weight:bold;") Variables
-          p.mb-0(data-aos="fade-up" style="position:relative;") #[strong MF] = Miembros al final del periódo.
-          p.mb-0(data-aos="fade-up" style="position:relative;") #[strong MN] = Miembros nuevos adquiridos durante el periódo.
-          p.mb-0(data-aos="fade-up" style="position:relative;") #[strong MS] = Miembros al comienzo del periódo.
+          p.mb-0(data-aos="fade-up" style="position:relative;") #[strong MF] = Miembros al final del período.
+          p.mb-0(data-aos="fade-up" style="position:relative;") #[strong MN] = Miembros nuevos adquiridos durante el período.
+          p.mb-0(data-aos="fade-up" style="position:relative;") #[strong MS] = Miembros al comienzo del período.
           p.mb-0.mt-4(data-aos="fade-up" style="position:relative;font-weight:bold;") Ecuación (( MF – MN) / MS) * 100 
         .col-md-5
           figure
@@ -57,7 +57,7 @@
         .col(style="place-self:center;")
           h3(data-aos="fade-up" style="position:relative") Retorno en la inversión REI
 
-      p.mt-4(data-aos="fade-up" style="position:relative") Es importante lograr medir el tráfico y determinar si la inversión realizada en cada campaña está arrojando los resultados esperados. La siguiente tabla presenta el esquema para poder llevar el seguimiento y control en un periódo determinado de una red social:
+      p.mt-4(data-aos="fade-up" style="position:relative") Es importante lograr medir el tráfico y determinar si la inversión realizada en cada campaña está arrojando los resultados esperados. La siguiente tabla presenta el esquema para poder llevar el seguimiento y control en un período determinado de una red social:
 
       p.mb-0.mt-5(data-aos="fade-up" style="position:relative;font-weight:bold;") Tabla 3
       p.mb-0(style="font-style:italic;position:relative" data-aos="fade-up") REI por tráfico
@@ -155,7 +155,7 @@
                 | Nombre de la campaña. 
               li(data-aos="fade-up" style="position:relative")
                 i.fas.fa-dot-circle(style="color:#29C4BB;")
-                | Periódo de medición de los datos.
+                | período de medición de los datos.
               li(data-aos="fade-up" style="position:relative")
                 i.fas.fa-dot-circle(style="color:#29C4BB;")
                 | Nombre de la red social o canal digital que ejecuta la estrategia.

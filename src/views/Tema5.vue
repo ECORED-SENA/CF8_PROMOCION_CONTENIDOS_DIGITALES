@@ -18,7 +18,7 @@
         .col-md-8.order-1.order-sm-0
           p.mt-3(data-aos="fade-up") En las redes sociales los comentarios son considerados una métrica para evaluar el grado de aceptación de los usuarios con relación al contenido publicado. Los #[em blog] o los #[em web-blog] son uno de los canales digitales con mayor grado de participación de usuarios con comentarios teniendo en cuenta que su propósito es lograr la mayor interacción posible a través de la publicación constante de temas de interés para un público en particular. 
           .cajon.color-primario.p-4.mt-4(style="background-color:#D7E4F6;")
-            p.mb-0(data-aos="fade-up") Los comentarios son los textos que los usuarios dejan en un #[em blog] con relación a un contenido publicado durante un periódo de tiempo determinado. Un #[em blog] es un sitio #[em web] que permite la constante interacción con el público de una comunidad basado en la continua publicación de información que resaltan algunos temas de interés específico.
+            p.mb-0(data-aos="fade-up") Los comentarios son los textos que los usuarios dejan en un #[em blog] con relación a un contenido publicado durante un período de tiempo determinado. Un #[em blog] es un sitio #[em web] que permite la constante interacción con el público de una comunidad basado en la continua publicación de información que resaltan algunos temas de interés específico.
         .col-md-12.order-3.order-sm-0
           p.mt-3(data-aos="fade-up") Los comentarios también se pueden evaluar en diferentes canales digitales diferentes al #[em blog]; por ejemplo, la red social Facebook.
 

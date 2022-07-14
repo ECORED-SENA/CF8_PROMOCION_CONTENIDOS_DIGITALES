@@ -22,7 +22,6 @@
 
     h3.text-center.mt-5(data-aos="fade-up") CLASIFICACIÓN DE SEGUIDORES
 
-    br
     .cont_tema6_1.pb-5.mt-5(style="position:relative;")
       .tarjeta.tarjeta--gris.p-4(style="background-color:#E7F3FF;")
         LineaTiempoC.color-acento-contenido(text-small)
@@ -72,7 +71,7 @@
               img(src='@/assets/curso/tema6/8.png' alt='' style="position:relative;display:inline;margin-bottom:-85px;z-index:1;max-width:150px;" data-aos="zoom-in-up")
             .tarjeta.color-acento-contenido(style="position:relative;background-color:#C9F0EE;box-shadow:0px 0px 10px rgba(0,0,0,.10);")
               .p-4(style="position:relative")
-                p.text-center(data-aos="fade-up" style="position:relative;color:#12263F;") Evaluar el desempeño del #[em marketing].
+                p.text-center(data-aos="fade-up" style="position:relative;color:#12263F;") Evaluar el desempeño del #[em(style="color:#12263F;") marketing].
 
       .row.mt-5
         .col-md-5
@@ -114,7 +113,7 @@
                   td.p-3.text-center(style="position:relative;border:0;") 190
         .col-md-5
           .p-5(style="background-color:#C9F0EE;")
-            p(data-aos="fade-up") De igual manera, para cada red social se debe hacer el seguimiento tomando como referencia la estrategia de #[em marketing] implementada (campaña de promoción de contenido) por periódos de tiempo, tal como se muestra a continuación a manera de ejemplo en la red social Instagram:
+            p(data-aos="fade-up") De igual manera, para cada red social se debe hacer el seguimiento tomando como referencia la estrategia de #[em marketing] implementada (campaña de promoción de contenido) por períodos de tiempo, tal como se muestra a continuación a manera de ejemplo en la red social Instagram:
 
       p.mb-0.mt-5(data-aos="fade-up" style="position:relative;font-weight:bold;") Tabla 2
       p.mb-0(style="font-style:italic;position:relative" data-aos="fade-up") Seguimiento a seguidores red social Instagram
@@ -163,7 +162,7 @@
               td.text-center.p-1 0
               td.text-center.p-1 0
 
-      p.mt-5(data-aos="fade-up") El ejemplo ilustrado en la anterior tabla hace referencia a dos campañas de promoción en una cuenta de la red social Instagram para una empresa de turismo o agencia de viajes que cada 15 días inicia una campaña de promoción de destinos turísticos obteniendo como resultados finales un incremento del 45,83% de nuevos seguidores en un periódo de 30 días.
+      p.mt-5(data-aos="fade-up") El ejemplo ilustrado en la anterior tabla hace referencia a dos campañas de promoción en una cuenta de la red social Instagram para una empresa de turismo o agencia de viajes que cada 15 días inicia una campaña de promoción de destinos turísticos obteniendo como resultados finales un incremento del 45,83% de nuevos seguidores en un período de 30 días.
 
       .col-md-10.m-auto.mt-5
         figure

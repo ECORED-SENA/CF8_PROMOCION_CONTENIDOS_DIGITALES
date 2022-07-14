@@ -9,8 +9,8 @@
 
     .row.p-5.cont_tema1_1
       .col-md-6
-        p(data-aos="fade-in") Las métricas son la representación numérica de los objetivos como resultado de su seguimiento, valoración y comparación en un periódo de tiempo determinado. 
-        p.mt-4(data-aos="fade-in") El KPI - #[em Key Performance Indicator] significa Indicador Clave de Desempeño. Y el desempeño, como en toda estrategia o proyecto, no es más que la representación o esquematización de la información como resultado de una serie de acciones implementadas en un periódo determinado y con un objetivo definido. Así, un conjunto de indicadores representa las métricas de una estrategia.
+        p(data-aos="fade-in") Las métricas son la representación numérica de los objetivos como resultado de su seguimiento, valoración y comparación en un período de tiempo determinado. 
+        p.mt-4(data-aos="fade-in") El KPI - #[em Key Performance Indicator] significa Indicador Clave de Desempeño. Y el desempeño, como en toda estrategia o proyecto, no es más que la representación o esquematización de la información como resultado de una serie de acciones implementadas en un período determinado y con un objetivo definido. Así, un conjunto de indicadores representa las métricas de una estrategia.
 
     .cont_background_tema11.pb-5(style="position:relative")
       p.mt-5(data-aos="fade-up" style="position:relative;") La Implementación de KPI requiere de factores claves, por lo tanto, se requiere para su implementación en primera instancia resolver los siguientes interrogantes:
@@ -137,7 +137,7 @@
     br
     p.mt-5(data-aos="fade-up") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;") Tipos de indicadores]
 
-    p.mt-5(data-aos="fade-up") Definir el indicador para cada área de la empresa es primordial en la consecución de los objetivos proyectados en un periodo de tiempo. A continuación, se presentan los siguientes KPI considerados como los más importantes:
+    p.mt-5(data-aos="fade-up") Definir el indicador para cada área de la empresa es primordial en la consecución de los objetivos proyectados en un período de tiempo. A continuación, se presentan los siguientes KPI considerados como los más importantes:
 
     TabsC.color-primario
       .p-5(titulo="KPI financieros" style="background-color:#D7E4F6;")
@@ -230,7 +230,7 @@
             img.mt-2(src="@/assets/curso/tema1/30.svg" data-aos="zoom-in")
         .col-md-8.order-1.order-sm-0(style="position:relative")
           p(data-aos="fade-up") El embudo en <em>marketing</em> digital representa el proceso de conversión de un internauta una vez es atraído por alguna publicación en cualquier canal digital. 
-          p.mt-4(data-aos="fade-up") La tasa de conversión permitirá establecer el nivel de efectividad logrado en periódos de tiempo y aplicar #[em benchmarking].
+          p.mt-4(data-aos="fade-up") La tasa de conversión permitirá establecer el nivel de efectividad logrado en períodos de tiempo y aplicar #[em benchmarking].
 
           .mt-4.p-4(style="background-color:#C9F0EE;border-radius:15px;")
             .row(style="position:relative")
@@ -274,7 +274,7 @@
 
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/GKqM5LHPmfw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/a3hYA2ielE8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 
@@ -317,7 +317,7 @@ export default {
       {
         titulo: 'Que sea limitado en el tiempo',
         texto:
-          'Un indicador de rendimiento clave debe estar supeditado a un periódo temporal concreto.',
+          'Un indicador de rendimiento clave debe estar supeditado a un período temporal concreto.',
         icono: require('@/assets/curso/tema1/29.svg'),
       },
     ],

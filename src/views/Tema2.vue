@@ -71,7 +71,7 @@
         figure
           img(src="@/assets/curso/tema2/9.svg" data-aos="zoom-in-up")
       .col(style="place-self:center;")
-        p.mb-0(data-aos="fade-up") Para concluir, la técnica implica sumar todas las interacciones (me gustas, comentarios, compartir, #[em retweets], etc.), de una publicación o de varias en un periódo de tiempo, luego esa suma se divide por el número de personas que vieron la publicación (alcance) y finalmente se multiplica por cien. El mismo procedimiento aplica para los seguidores. 
+        p.mb-0(data-aos="fade-up") Para concluir, la técnica implica sumar todas las interacciones (me gustas, comentarios, compartir, #[em retweets], etc.), de una publicación o de varias en un período de tiempo, luego esa suma se divide por el número de personas que vieron la publicación (alcance) y finalmente se multiplica por cien. El mismo procedimiento aplica para los seguidores. 
 
 
 
