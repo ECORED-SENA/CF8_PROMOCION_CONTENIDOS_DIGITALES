@@ -248,12 +248,12 @@
         p.mt-4.mb-0(data-aos="fade-up") El volumen de tráfico está determinado especialmente por la cantidad de accesos que un contenido logra obtener durante un tiempo determinado una vez es publicado en un sitio #[em web], página o #[em blog].
         p.mt-4.mb-0(data-aos="fade-up") Esta métrica permite analizar el impacto de la estrategia de <em>marketing</em> digital conforme al tráfico que se obtenga de manera orgánica y el que se logre utilizando medios pagados. 
       .col-md-5
-        figure
+        figure.mt-4
           img(src="@/assets/curso/tema1/32.png" data-aos="zoom-in-up")
 
     .row.mt-5.p-5(style="border-radius:5px;background-color:#ECF2F2;")
       .col-md-5
-        figure
+        figure.mb-4
           img(src="@/assets/curso/tema1/33.png" data-aos="zoom-in-up")
       .col-md-7
         p(data-aos="fade-up") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;") Número de visitas]
@@ -267,7 +267,7 @@
         p.mt-4.mb-0(data-aos="fade-up") El comportamiento de los internautas cuando visitan un sitio #[em web] o página depende mucho del contenido y del valor agregado que esta pueda aportar, su permanencia e interacción está sujeto al interés que podamos despertar en él. 
         p.mt-4.mb-0(data-aos="fade-up") La tasa de rebote es entonces aquella que calcula el porcentaje de usuarios que dejan un sitio #[em web], página o #[em blog] antes de interactuar con esta de alguna forma.
       .col-md-5
-        figure
+        figure.mt-4
           img(src="@/assets/curso/tema1/34.png" data-aos="zoom-in-up")
 
     p.mt-5(data-aos="fade-up") El siguiente video tiene como propósito ampliar el concepto y usabilidad de Google Analytics y la integración con los conceptos relacionados con los indicadores, veámoslo:
@@ -386,17 +386,18 @@ export default {
   background: url(../assets/curso/tema1/24.png)
   background-size: 1500px
   background-repeat: no-repeat
-.linea-tiempo-b__icon img
-  width: 60%
-.tarjeta-avatar-b__img
-  min-width: 30%
-.linea-tiempo-b.color-acento-contenido .linea-tiempo-b__icon
-  background-color: #29C4BB
-  max-width: 50%
-  max-height: 50%
-  margin: 0 auto
-.linea-tiempo-b__icon
-  padding-top: 50%
-  border-radius: 50%
-  position: relative
+@media screen and (min-width: 1024px)
+  .linea-tiempo-b__icon img
+    width: 70%
+  .tarjeta-avatar-b__img
+    min-width: 50%
+  .linea-tiempo-b.color-acento-contenido .linea-tiempo-b__icon
+    background-color: #29C4BB
+    max-width: 60%
+    max-height: 60%
+    margin: 0 auto
+  .linea-tiempo-b__icon
+    padding-top: 60%
+    border-radius: 50%
+    position: relative
 </style>

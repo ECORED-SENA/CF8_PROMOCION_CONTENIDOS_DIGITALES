@@ -23,23 +23,27 @@
     h3.text-center.mt-5(data-aos="fade-up") CLASIFICACIÓN DE SEGUIDORES
 
     .cont_tema6_1.pb-5.mt-5(style="position:relative;")
-      .tarjeta.tarjeta--gris.p-4(style="background-color:#E7F3FF;")
-        LineaTiempoC.color-acento-contenido(text-small)
-          .row(titulo="")
-            figure
-              img(src='@/assets/curso/tema6/3.png', alt='')
-          .row(titulo="")
-            figure
-              img(src='@/assets/curso/tema6/4.png', alt='')
-          .row(titulo="")
-            figure
-              img(src='@/assets/curso/tema6/5.png', alt='')
-          .row(titulo="")
-            figure
-              img(src='@/assets/curso/tema6/6.png', alt='')
-          .row(titulo="")
-            figure
-              img(src='@/assets/curso/tema6/7.png', alt='')
+      .row
+        .col-md-6.mb-3
+          figure
+            img(src="@/assets/curso/tema6/11.png" data-aos="zoom-in-up" style="position:relative")
+        .col-md-6.mb-3
+          figure
+            img(src="@/assets/curso/tema6/12.png" data-aos="zoom-in-up" style="position:relative")
+      .row
+        .col-md-6.mb-3
+          figure
+            img(src="@/assets/curso/tema6/13.png" data-aos="zoom-in-up" style="position:relative")
+        .col-md-6.mb-3
+          figure
+            img(src="@/assets/curso/tema6/14.png" data-aos="zoom-in-up" style="position:relative")
+      .row
+        .col-md-6.mb-3
+          figure
+            img(src="@/assets/curso/tema6/15.png" data-aos="zoom-in-up" style="position:relative")
+        .col-md-6.mb-3
+          figure
+            img(src="@/assets/curso/tema6/16.png" data-aos="zoom-in-up" style="position:relative")
 
       p.mt-5(data-aos="fade-up" style="position:relative") La importancia de contar con un buen número de seguidores permite:
 

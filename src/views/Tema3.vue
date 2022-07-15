@@ -62,7 +62,7 @@
                 i.fas.fa-dot-circle(style="color:#29C4BB;")
                 | Puesta en escena de la persona que rápidamente es cosificada. 
         .col-md-4(style="place-self:center")
-          figure
+          figure.mt-4
             img(src="@/assets/curso/tema3/3.png" data-aos="zoom-in-up")
 
       br
@@ -174,17 +174,18 @@ export default {
   left: -4%
   background-repeat: no-repeat
   background: url(../assets/curso/tema3/2.png)
-.linea-tiempo-b__icon img
-  width: 45%
-.tarjeta-avatar-b__img
-  min-width: 30%
-.linea-tiempo-b.color-acento-contenido .linea-tiempo-b__icon
-  background-color: #29C4BB
-  max-width: 50%
-  max-height: 50%
-  margin: 0 auto
-.linea-tiempo-b__icon
-  padding-top: 50%
-  border-radius: 50%
-  position: relative
+@media screen and (min-width: 1024px)
+  .linea-tiempo-b__icon img
+    width: 70%
+  .tarjeta-avatar-b__img
+    min-width: 50%
+  .linea-tiempo-b.color-acento-contenido .linea-tiempo-b__icon
+    background-color: #29C4BB
+    max-width: 60%
+    max-height: 60%
+    margin: 0 auto
+  .linea-tiempo-b__icon
+    padding-top: 60%
+    border-radius: 50%
+    position: relative
 </style>
