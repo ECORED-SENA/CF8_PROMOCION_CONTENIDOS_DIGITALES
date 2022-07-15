@@ -79,7 +79,7 @@
             .col-auto(style="position:relative;padding:0px;")
               div(style="position:relative;background-color:#6D91AF;width:24px;height:100%;")
             .col(style="position:relative;background-color:#D2E1F1;padding:0px;")
-              p.mb-0.p-3(data-aos="fade-up" style="position:relative;border-bottom:1px #DEE4F0 solid;") Permite el análisis de a información por cada estrategia. 
+              p.mb-0.p-3(data-aos="fade-up" style="position:relative;border-bottom:1px #DEE4F0 solid;") Permite el análisis de la información por cada estrategia. 
           .row(style="position:relative;padding:0px;")
             .col-auto(style="position:relative;padding:0px;")
               div(style="position:relative;background-color:#9DB5CA;width:24px;height:100%;")

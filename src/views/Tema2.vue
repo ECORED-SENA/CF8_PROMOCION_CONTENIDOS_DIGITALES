@@ -39,7 +39,7 @@
       .col-md-3.mb-3
         .p-4.cont_tema24(style="height:100%;")
           .p-3.d-flex.align-items-center(style="background-color:#ffffff;border-radius:10px;box-shadow:0px 0px 10px rgba(0,0,0,.25);height:100%;")
-            p.text-center.mb-0(data-aos="fade-in") #[strong(style="color:#1169E3;") #[em El good will]] de la marca se posesiona.
+            p.text-center.mb-0(data-aos="fade-in") #[strong(style="color:#1169E3;") #[em El good will]] de la marca se posiciona.
 
     p.mt-5(data-aos="fade-up") Es importante generar acciones que permitan aumentar el #[em engagement] dentro de la comunidad o público objetivo con la que se tiene planeado interactuar.
 

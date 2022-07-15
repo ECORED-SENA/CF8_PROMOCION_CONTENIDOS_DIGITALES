@@ -58,20 +58,14 @@
           h4.mt-2.mb-0(data-aos="fade-up" style="position:relative;color:#1169E3;") Enojado
           p(data-aos="fade-up" style="position:relative") Cara roja / enojada / haciendo pucheros.
 
-      .tarjeta.color-acento-contenido.p-4.mt-5.col-md-10.m-auto(style="position:relative;background-color:#29C4BB;background:linear-gradient(177deg, #29C4BB, #15625E);")
-        .row.justify-content-around.align-items-center(style="position:relative")
-          .col-3.col-sm-2.col-lg-1(style="position:relative")
-            img(src="@/assets/curso/tema4/9.svg" style="position:relative")
-          .col(style="position:relative")
-            .row.justify-content-between.align-items-center(style="position:relative")
-              .col.mb-3.mb-sm-0(style="position:relative")
-                h3.mb-1(style="position:relative") Tipos de redes sociales
-                p.text-small(style="position:relative") Para complementar los conocimientos sobre la temática de redes, lo invito a ver el siguiente video que nos explica los tipos de redes sociales: 
-              .col-sm-auto(style="position:relative")
-                a.boton.color-acento-botones(href="#" target="_blank" style="position:relative")
-                  span(style="position:relative;color:#12263F;") Ver
-                  i.fas.fa-play(style="position:relative;color:#12263F;")
+    br
+    br
+    p.mt-5(data-aos="fade-up" style="position:relative") #[span(style="padding:10px 25px;background-color:#1169E3;border-radius:50px;font-weight:bold;color:white;font-size:20px;") Tipos de redes sociales]
+    p.mt-4(data-aos="fade-up" style="position:relative") Para complementar los conocimientos sobre la temática de redes, lo invito a ver el siguiente video que nos explica los tipos de redes sociales: 
 
+    figure.mt-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Vu_jQSLPGnk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 </template>
