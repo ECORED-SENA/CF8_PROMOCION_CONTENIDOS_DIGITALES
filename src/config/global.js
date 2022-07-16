@@ -197,12 +197,12 @@ export default {
         'porcentaje que evalúa el impacto y el número de personas que han visto una publicación de manera natural, sin ningún tipo de promoción o publicidad de pago. ',
     },
     {
-      termino: 'Alcance viral ',
+      termino: 'Alcance viral',
       significado:
         'calcula la evolución y la interacción de una publicación en cualquier tipo de formato, especialmente las redes sociales.',
     },
     {
-      termino: 'Analítica <em>web</em> ',
+      termino: 'Analítica <em>web</em>',
       significado:
         'forma de medir y analizar los datos de tráfico de un sitio <em>web</em>.',
     },
@@ -212,7 +212,7 @@ export default {
         'pequeños fragmentos de información que quedan registrados en el navegador cuando se visita un sitio <em>web</em> y que permiten a este sitio seguir el rastro de la actividad de los usuarios.',
     },
     {
-      termino: '<em>Engagement</em> ',
+      termino: '<em>Engagement</em>',
       significado:
         'sensación de pertenencia y unión emocional entre una marca y un usuario. Es el objetivo de toda marca o empresa en redes sociales a través de basar la estrategia en <em>marketing</em> de contenidos y generar en cada una de las redes la mayor participación posible.',
     },
@@ -222,7 +222,7 @@ export default {
         'también llamada “página de fans”, es la plataforma que ofrece Facebook a las empresas, marcas u organizaciones para visibilizar y conectar con los usuarios. A diferencia de un perfil, una <em>fan page</em> no tiene límite de fans y es posible tener acceso a la información estadística de la página.',
     },
     {
-      termino: '<em>Hashtag</em> ',
+      termino: '<em>Hashtag</em>',
       significado:
         'etiqueta formada por una palabra o un conjunto de palabras precedidas por el símbolo numeral (#) que transmite una idea, un nombre o un concepto que, normalmente, va asociado con un mensaje o texto. Su uso se ha extendido principalmente en redes sociales como Twitter, Instagram o Google Plus.',
     },
@@ -242,7 +242,7 @@ export default {
         'conjunto de opiniones y experiencias (positivas o negativas) de usuarios y consumidores que giran en torno a una marca, un producto o una empresa, generados en el entorno 2.0 y en las redes sociales.',
     },
     {
-      termino: '<em>Retargeting</em> ',
+      termino: '<em>Retargeting</em>',
       significado:
         'nueva técnica de publicidad que consiste en mostrar al usuario productos afines, una especie de filtro personalizado de productos y servicios en los que se está más receptivo a recibir información. Este tipo de prácticas se hacen posibles si, y solo si, los usuarios admiten voluntariamente que aceptan <em>cookies</em> cuando navegan en determinado sitio.',
     },
@@ -252,7 +252,7 @@ export default {
         'siglas en inglés de <em>return on investment</em>, que significa retorno de la inversión. Es un indicador que mide el beneficio frente al gasto de la inversión de un proyecto de social media <em>marketing</em> en función de los objetivos y las metas logrados.',
     },
     {
-      termino: '<em>Storytelling</em> ',
+      termino: '<em>Storytelling</em>',
       significado:
         'técnica de <em>marketing</em> cuyo objetivo es conectar y vincular al usuario directamente con el contenido contado en forma de historia gráfica o audiovisual.',
     },
@@ -271,7 +271,8 @@ export default {
       referencia:
         'Lane, K., y Kotler, P. (2006). Dirección de marketing. Editorial Pearson.',
       tipo: 'Libro',
-      link: 'http://biblioteca.udgvirtual.udg.mx/jspui/handle/123456789/3652',
+      link:
+        'https://www.montartuempresa.com/wp-content/uploads/2016/01/direccion-de-marketing-14edi-kotler1.pdf',
     },
   ],
   creditos: {
