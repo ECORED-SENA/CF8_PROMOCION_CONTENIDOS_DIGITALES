@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000001" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00000000001" font="Open Sans" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000001" font="Open Sans" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="npxnabnsnfns00000000001" font="Open Sans" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="npnxnanbnsnfns00000000001" font="Open Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000000" font="Open Sans" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnanbsnfns00000000001" font="Didact Gothic" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000001" font="Didact Gothic" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npxnabnsnfns00000000001" font="Didact Gothic" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnanbnsnfns00000000001" font="Didact Gothic" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000000" font="Didact Gothic" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Conceptos b&amp;#225;sicos del marketing de contenidos" />
+              <option name="title_text" value="Actividad Did&amp;#225;ctica.-cf8" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -70,10 +70,11 @@
           <option name="search" value="false" />
           <option name="closed_captions" value="false">
             <options>
-              <option name="font" value="Open Sans" />
+              <option name="font" value="Didact Gothic" />
             </options>
           </option>
           <option name="settings" value="false" />
+          <option name="fullScreenToggle" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -1174,6 +1175,22 @@
       <string id="keyboardshortcuts_lower">Atajos de teclado</string>
       <string id="zoom_to_fit">Habilitar zoom del navegador</string>
       <string id="accessible_text">Texto accesible</string>
+      <string id="modern_video_captions_on">Activado</string>
+      <string id="modern_video_captions_off">Desactivado</string>
+      <string id="modern_video_settings_close">cerrar ajustes de video</string>
+      <string id="modern_video_playback_settings">Ajustes de reproducción del video</string>
+      <string id="acc_modern_video_volume">volumen del video</string>
+      <string id="acc_modern_video_fullscreen">video a pantalla completa</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="acc_modern_video_playback_speed">velocidad de reproducción</string>
+      <string id="modern_video_playback_speed_title">Velocidad de reproducción</string>
+      <string id="modern_video_captions_label">Subtítulos</string>
+      <string id="acc_modern_video_settings">ajustes del video</string>
+      <string id="acc_modern_video_captions">subtítulos del video</string>
+      <string id="acc_modern_video_pip">miniatura video</string>
+      <string id="acc_modern_video_pause">pausar video</string>
+      <string id="acc_modern_video_play">reproducir video</string>
+      <string id="acc_modern_video_mute">silenciar video</string>
       <string id="acc_definition">definición</string>
       <string id="definition">Definición</string>
       <string id="search_results">Resultados de la búsqueda</string>
@@ -1264,9 +1281,9 @@
     </string_table>
   </string_tables>
   <fonts>
-    <font name="Open Sans">
+    <font name="Didact Gothic">
       <files>
-        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
         <file bold="false" italic="false" />
       </files>
     </font>
